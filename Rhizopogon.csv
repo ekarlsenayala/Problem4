@@ -1,0 +1,645 @@
+id,observed_on,time_observed_at,user_id,updated_at,quality_grade,description,place_guess,latitude,longitude,species_guess,scientific_name
+150439,11/15/12,,4310,2016-11-28 06:06:56 UTC,needs_id,These sequestrate fungi were found in the duff beneath Arctostaphylos sp. in an area with Pinus jeffreyi. ,"Sherier Rd., Cave Junction, OR",42.10372776,-123.6304424,Rhizopogon rubescens,Rhizopogon ochraceorubens
+286391,6/1/13,2013-06-01 22:40:06 UTC,14961,2017-04-10 02:56:35 UTC,research,,"Trinity County, US-CA, US",40.573468,-123.531241,Rhizopogon truncatus,Rhizopogon truncatus
+415810,8/17/13,2013-08-17 17:45:25 UTC,8641,2015-04-03 23:22:19 UTC,research,"<i>Pterospora andromedea</i>
+
+They live in a parasitic relationship with mycorrhizal fungi, in which plants derive all their carbon from their associated fungus, but the relationship is not yet well understood. The term for this kind of symbiosis is mycoheterotrophy. In Pteropspora the association is with a very limited number of fungi in the genus Rhizopogon  
+
+Pterospora has consistently been shown to be more closely related to Sarcodes than any other member of the Monotropoidiae
+Source http://en.wikipedia.org/wiki/Pterospora accessed 2 October 2013
+
+Forest, Trail to Spray Park
+Mount Rainier National Park
+
+Northwestern Chapter of North American Rock Garden Society (NARGS) field trip 
+
+s20130909 237","Mount Rainier, Washington, United States",46.929062,-121.861853,Pterospora andromedea,Pterospora andromedea
+567433,3/9/14,2014-03-09 18:55:34 UTC,3494,2016-11-15 18:20:15 UTC,needs_id,,"Lake Oroville State Recreation Area, Forbestown, CA, US",39.62494667,-121.2679283,Rhizopogon,Rhizopogon
+1291507,12/24/14,,79697,2020-06-02 04:30:24 UTC,needs_id,"I have no idea, look like a false truffle ",laney college,37.795725,-122.261288,Rhizopogon,Rhizopogon rubescens
+1293508,12/13/14,2014-12-13 17:52:27 UTC,79697,2017-06-13 02:01:34 UTC,needs_id,Some kind of false struffle  ,"Merritt College, Oakland, CA, US",37.79003833,-122.16748,Rhizopogon,Rhizopogon
+2226308,10/17/15,2015-10-17 18:17:05 UTC,3494,2020-06-15 03:38:43 UTC,research,,"Salt Point State Park, Sonoma County, US-CA, US",38.56624167,-123.3166717,Rhizopogon occidentalis,Rhizopogon occidentalis
+2397839,11/18/15,2015-11-19 00:18:07 UTC,77622,2020-06-02 04:41:45 UTC,needs_id,"Spore mass not minutely chambered, so not Rhizopogon. Under doug fir. Spores elliptical, minutely warted, cinnamon-brown in visikol solution. spore mass buff white when young, dingy buff when older. spore mass composed of .5-3+mm chambers. columnella not present. smelly!","39976–40298 NE Meyers Rd, La Center, WA, US",45.91007,-122.590428,Fungi Including Lichens,Gautieria
+2456441,12/5/15,2015-12-05 20:22:32 UTC,604,2015-12-06 23:36:56 UTC,needs_id,,,34.85296016,-92.84444193,Rhizopogon species,Rhizopogon
+2621147,1/26/16,2016-01-27 01:11:36 UTC,19715,2016-02-02 00:24:50 UTC,needs_id,,"Manzanita Regional Park, Prunedale, CA, US",36.801521,-121.68157,Rhizopogon,Rhizopogon
+2634196,1/26/16,,108450,2016-01-31 21:40:51 UTC,needs_id,"According to ""Field Guide to the Mushrooms of Western North America"", the yellow outer skin and red-stained rhizomorphs are distinctive to R. ochraceorubens, but according to ""Mushrooms Demystified"" there are several similar species that can only be differentiated microscopically. ","Manzanita Park, Prunedale",36.801225,-121.681657,Rhizopogon,Rhizopogon
+2652946,2/6/16,2016-02-06 19:34:06 UTC,3494,2016-11-15 17:49:19 UTC,needs_id,,"Joaquin Miller Park, Oakland, CA, US",37.81015333,-122.1837783,Rhizopogon occidentalis,Rhizopogon occidentalis
+3213476,9/21/11,,216684,2018-10-09 01:01:01 UTC,needs_id,,"Isla Guadalupe, B.C.",29.147101,-118.322089,Rhizopogon,Rhizopogon
+3549490,2/20/14,,5179,2016-06-29 17:46:31 UTC,casual,,"Lanphere Dunes, Arcata, California, USA",40.88875,-124.1455,Rhizopogon,Rhizopogon
+3552896,11/27/14,,5179,2016-07-27 17:29:04 UTC,casual,,"Quail Hollow Ranch County Park, Santa Cruz, California, USA",37.0841,-122.0615,Rhizopogon,Rhizopogon
+3556384,12/20/15,,5179,2017-08-19 00:24:18 UTC,needs_id,<p>Black staining on white outer surface</p>,"Fall Creek Unit, Henry Cowell Redwoods State Park, Santa Cruz Co., California, USA",37.07465,-122.1095,Rhizopogon,Rhizopogon
+3570826,12/5/15,,5179,2016-07-27 17:34:09 UTC,needs_id,<p>Found by Randy Garrett</p>,"Gateway School, Santa Cruz, Santa Cruz Co., California, USA",36.9563,-122.0265,Rhizopogon,Rhizopogon
+3592107,11/30/13,,258652,2016-07-02 15:58:22 UTC,casual,,"Samoa, California, USA",40.80105,-124.1965,Rhizopogon occidentalis,Rhizopogon occidentalis
+3592477,11/24/13,,258652,2016-07-02 16:00:08 UTC,casual,,"Humboldt Co., California, USA",40.73575,-123.897,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+3592478,11/24/13,,258652,2016-07-02 16:00:09 UTC,casual,,"Humboldt Co., California, USA",40.73575,-123.897,Rhizopogon parksii,Rhizopogon parksii
+3592479,11/24/13,,258652,2016-07-02 16:00:09 UTC,casual,,"Humboldt Co., California, USA",40.73575,-123.897,Rhizopogon,Rhizopogon
+3592622,12/18/13,,258652,2016-07-02 16:00:48 UTC,casual,,"Samoa, California, USA",40.80105,-124.1965,Rhizopogon occidentalis,Rhizopogon occidentalis
+3592624,12/18/13,,258652,2016-07-02 16:00:48 UTC,casual,,"Samoa, California, USA",40.80105,-124.1965,Rhizopogon,Rhizopogon
+3594362,11/1/14,,258652,2016-07-02 16:50:23 UTC,casual,,"Jessie Honeyman State Park, Lane Co., Oregon, USA",43.9279,-124.105,Rhizopogon,Rhizopogon
+3594875,11/23/14,,258652,2016-07-02 17:27:20 UTC,casual,,"Humboldt Co., California, USA",40.73575,-123.897,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+3594876,11/23/14,,258652,2016-07-02 17:27:21 UTC,casual,,"Humboldt Co., California, USA",40.73575,-123.897,Rhizopogon parksii,Rhizopogon parksii
+3594877,11/23/14,,258652,2016-07-02 17:27:21 UTC,casual,,"Humboldt Co., California, USA",40.73575,-123.897,Rhizopogon,Rhizopogon
+3595728,1/24/15,,258652,2016-07-02 17:31:21 UTC,casual,,"Jackson Demonstration State Forest, Mendocino Co., California, USA",39.36455,-123.627,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+3634694,7/6/16,2016-07-06 23:32:06 UTC,170354,2017-05-28 14:34:34 UTC,needs_id,,"Stanislaus National Forest, Arnold, CA, US",38.30223714,-120.263084,Rhizopogon,Rhizopogon
+4141676,9/18/16,2016-09-18 20:57:12 UTC,170354,2016-10-11 21:31:20 UTC,needs_id,,"Manzanita Park, Salinas, CA, US",36.80173096,-121.6790854,Rhizopogon,Rhizopogon
+4142186,9/18/16,2016-09-18 21:32:46 UTC,170354,2017-05-30 03:44:09 UTC,needs_id,,"Manzanita Park, Salinas, CA, US",36.80171495,-121.6791513,Rhizopogon,Rhizopogon
+4495786,11/3/16,2016-11-03 18:57:39 UTC,5179,2016-11-05 03:43:31 UTC,needs_id,With exotic stone pine ,"University of California, Santa Cruz, Santa Cruz, CA, US",36.99499167,-122.0668555,Rhizopogon,Rhizopogon
+4548660,11/12/16,2016-11-12 23:44:41 UTC,170354,2017-08-17 01:18:12 UTC,needs_id,,"Stanislaus National Forest, Arnold, CA, US",38.30259349,-120.2632678,Rhizopogon,Rhizopogon
+4579298,11/15/16,2016-11-15 17:39:07 UTC,5179,2017-08-17 00:59:48 UTC,needs_id,,"Quail Hollow Ranch County Park, Felton, CA, US",37.08059717,-122.06125,Rhizopogon,Rhizopogon
+4653481,11/27/16,2016-11-27 18:23:22 UTC,3494,2018-11-14 17:43:10 UTC,needs_id,,"Merritt College, Oakland, CA, US",37.78912083,-122.1663408,Fungi Including Lichens,Rhizopogon ochraceorubens
+4661443,11/27/16,2016-11-27 22:11:00 UTC,359639,2018-11-16 00:05:36 UTC,needs_id,,"Santa Cruz, CA, USA",36.99290862,-121.9891512,Rhizopogon,Rhizopogon
+4674905,12/1/16,2016-12-01 23:21:25 UTC,19715,2016-12-02 03:18:27 UTC,needs_id,,"Manzanita Park, Salinas, CA, US",36.80103333,-121.6823417,Rhizopogon,Rhizopogon
+4676169,11/9/08,,25945,2020-06-11 05:25:22 UTC,research,<p>Half buried</p>,"Salt Point State Park, Sonoma Co., California, USA",38.57535,-123.313,Rhizopogon occidentalis,Rhizopogon occidentalis
+4677410,1/7/10,,25945,2020-06-15 05:06:49 UTC,casual,"<p>[admin &#8211; Sat Aug 14 01:56:54 +0000 2010]: Changed location name from &#8216;Santa Cruz Fungus Fair, Santa Cruz, Santa Cruz Co., California, <span class=""caps"">USA</span>&#8217; to &#8216;Santa Cruz, California, <span class=""caps"">USA</span>&#8217;</p>","Santa Cruz, California, USA",36.98545,-122.0375,Rhizopogon ellenae,Rhizopogon ellenae
+4677641,2/21/10,,25945,2020-06-15 05:00:26 UTC,research,"<p>On display at the <span class=""caps"">SDMS</span> fungus fair.</p>","San Diego, California, USA",32.7254,-117.1145,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+4678527,11/3/10,,25945,2020-06-15 05:00:22 UTC,research,"<p>Peridium redenning in <span class=""caps"">KOH</span>, 400 microns thick.  Spores 6 &#8211; 7 &#215; 2.5 &#8211; 3, smooth, elliptical.</p>
+<p>Under pine near Suillus.</p>","Kearny Mesa, San Diego Co., California, USA",32.8244,-117.1305,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+4678577,11/28/10,,25945,2017-04-21 13:06:50 UTC,needs_id,<p>Under bishop pine.</p>,"Salt Point State Park, Sonoma Co., California, USA",38.57535,-123.313,Rhizopogon,Rhizopogon
+4732170,12/5/16,2016-12-05 16:25:52 UTC,3494,2016-12-07 21:16:37 UTC,needs_id,,"Redwood Regional Park, Orinda, CA, US",37.82941333,-122.1767117,,Rhizopogon occidentalis
+4736493,1/6/11,,25945,2020-06-15 05:05:46 UTC,casual,,"Louden Nelson Community Center, Santa Cruz, California, USA",36.9694,-122.028,Rhizopogon occidentalis,Rhizopogon occidentalis
+4752034,12/9/16,2016-12-09 22:01:40 UTC,380145,2020-06-02 05:29:54 UTC,needs_id,,"Quail Hollow Ecological Reserve, Santa Cruz County, US-CA, US",37.08262634,-122.0661697,Fungi Including Lichens,Rhizopogon occidentalis
+4799723,12/18/16,2016-12-18 20:03:38 UTC,3494,2017-02-20 17:34:27 UTC,needs_id,,"Tahoe National Forest, Camptonville, CA, US",39.40572833,-121.1384805,,Rhizopogon truncatus
+4995935,1/14/17,2017-01-14 18:07:46 UTC,300530,2017-01-23 20:46:51 UTC,needs_id,Erumpent in forest duff under Pinus contorta.,"97441, Gardiner, OR, US",43.86180209,-124.1365645,,Rhizopogon salebrosus
+5701421,11/24/10,,382262,2017-04-14 22:24:32 UTC,needs_id,,"Maine, USA",45.1595,-69.0051,Rhizopogon truncatus,Rhizopogon truncatus
+5702787,6/18/13,,382262,2017-04-14 23:04:31 UTC,needs_id,,"York Co., Maine, USA",43.39445,-70.64825,Rhizopogon nigrescens,Rhizopogon nigrescens
+5704386,12/13/13,,382262,2017-04-14 23:52:03 UTC,needs_id,,"Clifford Park, Biddeford, Maine, USA",43.4836,-70.4479,Rhizopogon truncatus,Rhizopogon truncatus
+5705875,10/8/14,,382262,2017-04-15 00:39:30 UTC,needs_id,,"York Co., Maine, USA",43.39445,-70.64825,Rhizopogon evadens,Rhizopogon evadens
+6948138,7/6/17,2017-07-06 22:57:24 UTC,170354,2017-07-07 02:29:11 UTC,needs_id,"Probably Rhizopogon due to rhizomorphs on the surface, but could also be a puffball
+
+","Calaveras County, US-CA, US",38.29934932,-120.2609108,,Rhizopogon
+6997807,8/27/11,,221542,2017-07-10 17:43:34 UTC,needs_id,"<p>In high montane mixed spruce/fir forest, ~10,000-11,000 ft.</p>
+<p>Collected for the 4th Annual Eagle Mushroom Festival.</p>","Shrine Pass, Eagle Co., Colorado, USA",39.5472,-106.242,Rhizopogon,Rhizopogon
+6998566,8/23/08,,221542,2017-07-10 18:28:23 UTC,needs_id,,"Telluride, Colorado, USA",37.9421,-107.836,Rhizopogon brunneiniger,Rhizopogon brunneiniger
+7000027,11/26/14,,221542,2017-07-11 01:49:49 UTC,needs_id,<p>Among oak and mixed conifers.</p>,"North Fork Campground, Plumas National Forest, California, USA",40.0387,-121.221,Rhizopogon,Rhizopogon
+7001137,11/1/15,,221542,2017-07-10 20:35:55 UTC,needs_id,"<p>In sandy soil.</p>
+<p>Collected during a field trip with the University of Oregon Mycology 432/532 class, taught by Dr. Jeff Stone and Roo Vandegrift (<a href=""http://mushroomobserver.org/observer/lookup_user/Werdnus""><i>Werdnus</i></a>).</p>","Tahkenitch Creek Trail, Oregon Dunes National Recreation Area, Siuslaw National Forest, Douglas Co., Oregon, USA",43.8128,-124.1545,Rhizopogon occidentalis,Rhizopogon occidentalis
+7018236,8/9/13,2013-08-09 18:32:01 UTC,477643,2020-06-02 06:04:26 UTC,research,,Rimouski Canada,48.43898,-68.53497,Rhizopogon roseolus,Rhizopogon roseolus
+7322797,8/1/17,2017-08-01 20:27:40 UTC,538436,2017-09-28 01:01:46 UTC,needs_id,"Under lodgepole pine. 
+Collector #: AWW717","CU Boulder Mountain Research Center, Boulder County, US-CO, US",40.03603,-105.54348,Rhizopogon roseolus,Rhizopogon rubescens
+7352580,8/1/17,2017-08-01 20:40:38 UTC,538436,2017-08-14 23:53:55 UTC,research,Collector ID:AWW716,CU Boulder Mountain Research Station,40.03603,-105.54348,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+7583394,8/18/17,2017-08-18 18:29:22 UTC,3494,2018-12-19 23:10:20 UTC,needs_id,Mushroom in the grasp of the rodent ,"Newberry National Volcanic Monument, Bend, OR, US",43.91111333,-121.3570117,Rhizopogon,Rhizopogon
+7827538,9/2/17,2017-09-02 22:56:00 UTC,3494,2017-09-08 00:32:13 UTC,needs_id,,"Inyo National Forest, Inyo, California, United States",37.35283611,-118.7227861,Rhizopogon,Rhizopogon
+7841952,9/8/17,2017-09-08 16:08:28 UTC,242882,2017-09-10 00:19:48 UTC,research,,"Eldorado National Forest, Kyburz, CA, US",38.81101167,-120.240325,Rhizopogon occidentalis,Rhizopogon occidentalis
+7946848,9/13/17,2017-09-13 18:15:01 UTC,5179,2017-09-16 21:17:18 UTC,needs_id,,pine creek pack station,37.361801,-118.694744,Rhizopogon,Rhizopogon
+8197072,9/19/17,2017-09-19 14:10:24 UTC,62388,2018-10-13 06:14:50 UTC,needs_id,,"Orange County, US-NC, US",35.99250031,-79.0091629,Rhizopogon,Rhizopogon
+8218052,9/30/17,2017-09-30 21:48:00 UTC,3494,2017-10-31 23:05:13 UTC,needs_id,,"Tulare County, CA, USA",36.56658056,-118.7705778,Rhizopogon,Rhizopogon
+8262231,10/4/17,2017-10-05 00:21:45 UTC,611666,2017-10-08 18:16:05 UTC,needs_id,,"University of California, Berkeley, Berkeley, CA, US",37.87313819,-122.2636191,,Rhizopogon vulgaris
+8616548,10/28/17,2017-10-28 21:52:15 UTC,608902,2017-10-31 03:35:40 UTC,research,"Seen in Sierras, spores shown at 1000x in oil","Tahoe National Forest, Truckee, CA, US",39.37588,-120.1771167,Rhizopogon salebrosus,Rhizopogon salebrosus
+8627419,10/28/17,2017-10-28 19:16:00 UTC,608965,2017-11-01 08:37:34 UTC,needs_id,,"Van Norden Lake Rd, Soda Springs, CA 95728, USA",39.321398,-120.3772501,Rhizopogon,Rhizopogon
+8670531,11/3/17,2017-11-03 23:09:47 UTC,147477,2017-11-06 21:04:39 UTC,needs_id,,"Northstar Ski Resort, Truckee, CA, US",39.28855831,-120.1194739,Rhizopogon,Rhizopogon
+8725289,11/2/17,2017-11-02 20:31:28 UTC,258652,2017-11-07 22:54:16 UTC,needs_id,,United States,42.00226879,-70.02848994,Rhizopogon,Rhizopogon
+8734781,11/6/17,2017-11-06 22:42:00 UTC,608497,2017-12-04 04:18:34 UTC,needs_id,Microscopic pics included - found on the lawn by Tolman,"Tolman Hall, Berkeley, CA 94720, USA",37.8741044,-122.2638912,Rhizopogon,Rhizopogon
+8784794,10/30/17,2017-10-30 17:04:59 UTC,606759,2017-12-02 04:50:34 UTC,needs_id,,"Tahoe National Forest, Calpine, CA, US",39.60086412,-120.5162558,Rhizopogon,Rhizopogon
+8790360,10/28/17,2017-10-28 21:41:20 UTC,609868,2017-11-13 05:02:47 UTC,needs_id,"Under needle pines. Yellowish white body. Bruises red slightly where handled, bruised, or cut. No blue marks where bruised. ","Tahoe National Forest, Truckee, CA, US",39.37588667,-120.177125,,Rhizopogon occidentalis
+8791693,11/6/17,2017-11-06 21:16:37 UTC,609760,2017-11-13 16:09:36 UTC,needs_id,,"Tolman Hall, Berkeley, CA, US",37.87412167,-122.2642367,,Rhizopogon
+8792027,10/28/17,2017-10-28 21:41:00 UTC,614840,2017-11-14 10:08:19 UTC,needs_id,,"Nevada County, CA, USA",39.37591111,-120.1772694,Rhizopogon salebrosus,Rhizopogon salebrosus
+8852715,11/18/17,2017-11-18 17:24:35 UTC,170354,2018-11-02 15:26:37 UTC,needs_id,,"Soquel Demonstration State Forest, Santa Cruz County, US-CA, US",37.0841643,-121.8622646,Rhizopogon,Rhizopogon
+8869889,10/22/17,2017-10-22 07:44:00 UTC,459334,2017-11-23 03:43:59 UTC,needs_id,Rhizopogon occidentalis underneath a lodgepole pine at the South Beach State park parking lot,"Newport, OR, USA",44.60063861,-124.0651649,Rhizopogon occidentalis,Rhizopogon occidentalis
+8880659,11/19/17,2017-11-19 21:57:29 UTC,3494,2017-11-21 06:31:27 UTC,needs_id,,"Salt Point State Park, Cazadero, CA, US",38.57436667,-123.3088217,Rhizopogon,Rhizopogon
+8967685,10/2/16,,691967,2017-11-28 20:14:24 UTC,needs_id,<p>Possible false truffle. Harder than puffball but softer than earthball. Thin white thread rhizomes extending from the base. Interior beige. Exterior sulfur yellow. Half buried in dry clay in ravine.</p>,"Two Creeks Buried Forest State Natural Area, Wisconsin, USA",44.3258,-87.5455,Rhizopogon roseolus,Rhizopogon roseolus
+9017787,11/30/17,2017-11-30 22:29:06 UTC,258652,2017-12-02 17:33:50 UTC,needs_id,,"13294-13298 Marysville Rd, Camptonville, CA 95922, USA",39.41527939,-121.1208344,Rhizopogon,Rhizopogon
+9046172,10/28/17,2017-10-28 18:22:00 UTC,611638,2017-12-05 01:31:13 UTC,needs_id,"Found on duff in conifer forest, very gooey with yellow-brown spore mass inside","Placer County, CA, USA",39.31520865,-120.2106643,Rhizopogon,Rhizopogon
+9054761,12/4/17,2017-12-04 19:15:18 UTC,30502,2017-12-07 01:37:46 UTC,research,,"Mendocino County, US-CA, US",39.3356657,-123.7884883,Rhizopogon occidentalis,Rhizopogon occidentalis
+9091772,12/8/17,2017-12-08 21:26:03 UTC,113704,2017-12-09 03:00:54 UTC,needs_id,,"Azalea State Reserve, McKinleyville, CA, US",40.91764343,-124.0813409,,Rhizopogon occidentalis
+9176779,12/12/17,2017-12-12 23:19:54 UTC,113704,2017-12-17 14:23:07 UTC,research,,"Tenmile Creek Rd, North Bend, OR, US",43.57091027,-124.2082225,Rhizopogon occidentalis,Rhizopogon occidentalis
+9181838,9/8/17,,242882,2017-12-28 05:34:35 UTC,research,<p>Found two side by side. Smell and taste not distinctive. Mixed Fir and Pine.</p>,"Wrights Lake Rd., El Dorado Co., California, USA",38.80375,-120.2375,Rhizopogon occidentalis,Rhizopogon occidentalis
+9184239,7/7/11,,30468,2017-12-17 23:00:56 UTC,casual,"<p>Stalk was very sticky. Assumed to be growing on <a href=""http://mushroomobserver.org/observer/lookup_name/Rhizopogon""><i>Rhizopogon sp.</i></a></p>","Hamlin Park East Woods, Shoreline, Washington, USA",47.747,-122.306,Pterospora andromedea,Pterospora andromedea
+9279321,12/27/17,2017-12-28 00:13:41 UTC,399598,2017-12-29 06:26:45 UTC,needs_id,,"San Luis Obispo County, US-CA, US",35.55963693,-121.0953578,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+9424496,1/9/18,2018-01-09 22:39:27 UTC,322150,2018-01-10 04:59:18 UTC,research,Under Torrey pine after heavy rain; coastal chaparral; radish/earthy scent when cut,"Birch Aquarium, San Diego, CA, US",32.86631167,-117.249655,Rhizopogon occidentalis,Rhizopogon occidentalis
+9437480,1/7/18,2018-01-07 19:25:00 UTC,3494,2018-01-12 01:18:22 UTC,needs_id,,"Humboldt County, CA, USA",41.139775,-124.16175,Rhizopogon,Rhizopogon
+9440464,10/27/16,2016-10-28 02:29:40 UTC,536954,2018-01-11 19:01:19 UTC,needs_id,,"Salt Point State Park, Cazadero, CA, US",38.57257645,-123.3146726,,Rhizopogon occidentalis
+9443974,1/11/18,2018-01-11 18:06:48 UTC,24754,2018-01-12 02:34:18 UTC,needs_id,,"Fairfax - Bolinas Rd, Bolinas, CA 94924, USA",37.94117355,-122.6605606,Rhizopogon,Rhizopogon
+9445802,1/11/18,2018-01-12 00:07:00 UTC,17695,2018-02-18 06:05:18 UTC,needs_id,,"Ukiah, CA 95482, USA",39.16189264,-123.224743,Rhizopogon,Rhizopogon
+9445860,1/11/18,2018-01-11 23:40:00 UTC,17695,2018-02-18 06:10:41 UTC,research,,"Ukiah, CA 95482, USA",39.16189264,-123.224743,Rhizopogon occidentalis,Rhizopogon occidentalis
+9461904,1/13/18,2018-01-13 18:27:09 UTC,19715,2018-01-13 22:47:37 UTC,needs_id,"Under Monterey pines, very tough and spongy.","17100 Castroville Blvd, Salinas, CA, US",36.80187167,-121.6776417,Rhizopogon,Rhizopogon
+9479182,1/14/18,2018-01-14 23:57:00 UTC,2873,2018-01-15 05:17:28 UTC,research,,"Santa Cruz County, CA, USA",37.08943047,-122.0575261,Rhizopogon occidentalis,Rhizopogon occidentalis
+9480145,1/14/18,2018-01-14 22:08:41 UTC,24754,2018-01-15 23:45:55 UTC,research,,"Santa Cruz, CA 95060, USA",37.04730988,-122.13134,Rhizopogon rubescens,Rhizopogon rubescens
+9491640,1/15/18,2018-01-16 04:08:51 UTC,746583,2018-01-16 18:01:46 UTC,needs_id,,"Moraga, CA  94556, Moraga, CA, US",37.81759845,-122.1399222,Rhizopogon,Rhizopogon
+9535571,1/19/18,2018-01-19 17:31:40 UTC,24754,2018-01-20 06:00:31 UTC,needs_id,Smelled like paint,"Rock Spring Trail, Mill Valley, CA 94941, USA",37.91346359,-122.6082077,Rhizopogon,Rhizopogon
+9555182,1/20/18,2018-01-21 01:58:00 UTC,168642,2018-01-22 03:12:40 UTC,research,,"Santa Cruz County, CA, USA",37.09027778,-122.0597222,Rhizopogon occidentalis,Rhizopogon occidentalis
+9572091,9/27/12,,239596,2018-05-06 04:58:09 UTC,research,,"Bonnechere Provincial Park, Ontario, Canada",45.64865,-77.5247,Rhizopogon rubescens,Rhizopogon rubescens
+9590313,10/15/15,,239596,2018-05-11 05:02:13 UTC,needs_id,,"Beaver Creek State Park, East Liverpool, Ohio, USA",40.7156,-80.59575,Rhizopogon,Rhizopogon
+9593090,11/30/16,,239596,2018-05-06 15:27:11 UTC,needs_id,,"Beaver Creek State Park, East Liverpool, Ohio, USA",40.7156,-80.59575,Rhizopogon,Rhizopogon
+9595108,11/6/17,,239596,2018-05-06 03:32:23 UTC,needs_id,,"Beaver Creek State Park, East Liverpool, Ohio, USA",40.7156,-80.59575,Rhizopogon,Rhizopogon
+9610303,1/23/18,2018-01-23 20:28:09 UTC,5179,2018-01-25 17:21:54 UTC,needs_id,,"652–1098 Martin Rd, Santa Cruz, CA, US",37.04861117,-122.1380528,Rhizopogon,Rhizopogon
+9644094,1/27/18,2018-01-27 20:42:23 UTC,24754,2018-01-28 17:31:09 UTC,needs_id,,"Water Tank Road, Oakland, CA 94611, USA",37.84819412,-122.197876,Rhizopogon occidentalis,Rhizopogon occidentalis
+10427759,3/25/18,2018-03-25 21:07:16 UTC,730243,2018-09-27 05:02:17 UTC,needs_id,,"Jessie M. Honeyman Memorial State Park, Florence, OR, US",43.928345,-124.1180417,Rhizopogon,Rhizopogon
+10478018,11/14/15,2015-11-14 19:09:00 UTC,398340,2019-03-14 02:35:33 UTC,needs_id,,"Franklin Parker Preserve, Woodland, NJ, USA",39.80068917,-74.55270845,Rhizopogon,Rhizopogon
+10528953,3/25/18,2018-03-25 20:50:00 UTC,300530,2018-11-23 04:24:42 UTC,needs_id,,"Lane County, OR, USA",43.92754211,-124.1131865,Rhizopogon,Rhizopogon occidentalis
+10595501,3/25/18,2018-03-25 20:47:49 UTC,143544,2018-10-20 05:08:38 UTC,research,"In sand. At the edge of pine strand, near cystisus and beach grass","Jessie M. Honeyman Memorial State Park, Florence, OR, US",43.9287455,-124.1190391,Rhizopogon occidentalis,Rhizopogon occidentalis
+10631607,10/3/10,,477643,2020-06-02 07:30:40 UTC,needs_id,<p>Under Pine</p>,"Cook Forest State Park, Pennsylvania, USA",41.3428,-79.2113,Rhizopogon,Rhizopogon
+10747612,4/4/18,,394031,2018-04-27 01:38:45 UTC,needs_id,"<p>Partially exposed in duff under tree I can&#8217;t identify, but live oak in vicinity. Light yellow/white surface with dark orange/reddish splotches and darkening with handling. Yellow rhizomorphs that also darkened. Interior- sponge-like, uniform, olive/grey. NaOH- surface turned reddish color.</p>","Carmel Mountain Preserve, San Diego, California, USA",32.93985,-117.2135,Rhizopogon occidentalis,Rhizopogon occidentalis
+11240923,4/20/18,2018-04-21 00:01:03 UTC,265595,2018-04-21 00:55:55 UTC,casual,"These small, superficially truffle-like mushrooms have been appearing in clusters under this landscaping pine for the past two months or so. They are white inside until they dry, in the time that I’ve watched them, none have ever developed gills or pores. ID is a pretty wild guess, but matches the associated tree. I’ve marked it as cultivated because it’s growing on a cultivated, introduced tree, and if my ID is correct may well have been deliberately introduced.","25310 Avenue Stanford, Santa Clarita, CA, US",34.433925,-118.5778717,,Rhizopogon luteolus
+11295804,4/21/18,2018-04-21 21:58:11 UTC,540556,2019-01-07 22:23:11 UTC,needs_id,"near hazel, red cedar and lots of doug fir","Coyote Trail, Kirkland, WA 98033, USA",47.6548393,-122.1655524,Rhizopogon,Rhizopogon
+12047600,12/22/17,,242882,2018-05-13 18:12:58 UTC,needs_id,<p>Discovered in ornamental landscaping near the Antique Mall. Mature and juvenile Pines nearby.</p>,"Sebastopol, Sonoma Co., California, USA",38.3985,-122.8275,Rhizopogon,Rhizopogon
+12489799,3/12/18,2018-03-12 18:49:52 UTC,851163,2018-05-26 04:33:40 UTC,needs_id,In grass near pines,"36 Garner Dr, Novato, CA, US",38.08673715,-122.5798067,Rhizopogon,Rhizopogon
+13078142,4/26/18,2018-04-26 19:30:05 UTC,493282,2019-02-07 00:47:00 UTC,needs_id,,"Cloverdale, OR 97112, USA",45.17092246,-123.96956,Rhizopogon fuscorubens,Rhizopogon
+14291082,10/16/15,2015-10-16 18:59:00 UTC,5179,2018-07-12 16:44:31 UTC,needs_id,,"Breitenbush Hot Springs, Breitenbush, USA",44.78580283,-121.9772015,Rhizopogon,Rhizopogon
+14327215,11/27/12,2012-11-27 13:27:00 UTC,5179,2018-07-13 23:15:19 UTC,needs_id,,"Quail Hollow Ranch, Santa Cruz County, CA, USA",37.08672602,-122.0607132,Rhizopogon,Rhizopogon
+14639948,7/8/18,2018-07-08 17:39:19 UTC,705341,2019-01-12 17:00:21 UTC,needs_id,,"87876 Limpit Ln, Florence, OR, US",44.01435877,-124.1191134,,Rhizopogon
+15087094,12/8/12,,5179,2020-06-14 05:54:12 UTC,research,,"""Marshall Fields, Upper Campus, UCSC, Santa Cruz Co., CA, USA""",37.01978579,-122.0755103,Rhizopogon parksii,Rhizopogon parksii
+15788251,8/13/18,2018-08-13 23:41:00 UTC,5179,2019-02-06 01:38:22 UTC,needs_id,,United States,31.93130986,-109.3894849,Rhizopogon,Rhizopogon
+16018779,8/29/18,2018-08-29 21:30:32 UTC,242882,2018-08-30 17:00:38 UTC,needs_id,,"906 Chetco Ave, Brookings, OR, US",42.05528617,-124.2889167,Rhizopogon,Rhizopogon
+16073018,8/25/18,2018-08-25 21:13:00 UTC,3494,2018-08-31 20:48:09 UTC,needs_id,,"Inyo County, CA, USA",37.41563333,-118.7556917,Rhizopogon,Rhizopogon
+16187450,10/8/14,2014-10-08 18:28:00 UTC,1114177,2020-06-15 12:45:58 UTC,research,,"Pinhey sand dunes, Merivale Gardens - Grenfell Glen - Pineglen - Country Place, Ottawa, ON, Canada",45.32045785,-75.73677544,Rhizopogon roseolus,Rhizopogon roseolus
+16214540,9/4/18,2018-09-04 21:26:49 UTC,1155593,2018-09-04 21:28:15 UTC,needs_id,Found in grassy area of a park. ,"Adams State University, Alamosa, CO, US",37.47147997,-105.8802125,,Rhizopogon rubescens
+16345584,1/9/16,,676480,2020-06-15 06:26:43 UTC,research,,"Salt Point, Sonoma Co., California, USA",38.5663,-123.333,Rhizopogon occidentalis,Rhizopogon occidentalis
+16347453,7/21/17,,676480,2019-09-11 00:07:50 UTC,needs_id,,"Yavapai Co., Arizona, USA",34.70965,-112.3975,Rhizopogon,Rhizopogon
+16348325,12/8/17,,676480,2018-09-09 08:31:08 UTC,needs_id,,"Salt Point State Park, Sonoma Co., California, USA",38.57535,-123.313,Rhizopogon,Rhizopogon
+16551389,9/14/18,2018-09-15 01:09:30 UTC,3494,2018-09-15 15:03:25 UTC,needs_id,,"Merritt College, Oakland, CA, US",37.789325,-122.1661917,Rhizopogon,Rhizopogon
+16651311,9/17/18,2018-09-17 17:42:00 UTC,682730,2018-09-18 19:07:40 UTC,needs_id,,"Lewis County, WA, USA",46.48740506,-121.9449292,Rhizopogon,Rhizopogon
+16822827,9/22/18,2018-09-22 22:16:00 UTC,300530,2018-09-29 06:36:18 UTC,needs_id,,"Tillamook County, OR, USA",45.69085438,-123.935051,Rhizopogon roseolus,Rhizopogon roseolus
+17306782,10/6/18,2018-10-06 19:14:57 UTC,1131181,2019-01-06 16:47:11 UTC,needs_id,,"Coconino National Forest, Happy Jack, AZ, US",34.44917167,-111.2325217,Rhizopogon,Rhizopogon
+17334499,10/4/18,,676480,2019-09-10 23:47:59 UTC,needs_id,"<p>Soil under ponderosa pine, gambel oak, Douglas fir and spruce at 8500&#8217;.</p>","Coconino National Forest, Mogollon Rim",34.458639,-111.250691,Rhizopogon,Rhizopogon
+17449626,10/12/18,2018-10-12 17:47:23 UTC,749816,2020-01-14 14:23:12 UTC,needs_id,,"Willamette National Forest, Idanha, OR, US",44.52249167,-122.0307833,Rhizopogon,Rhizopogon
+17457485,10/12/18,2018-10-12 20:32:50 UTC,1169591,2019-12-19 01:46:24 UTC,research,,"South Beach State Park, Newport, OR, US",44.606625,-124.0580222,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+17734509,10/20/18,2018-10-21 01:04:27 UTC,26049,2019-11-20 19:58:49 UTC,needs_id,,"Shannon County, MO",37.32189178,-91.4359436,Rhizopogon fuscorubens,Rhizopogon fuscorubens
+18044748,10/31/18,2018-10-31 23:07:14 UTC,1302924,2018-12-31 22:41:24 UTC,needs_id,,"3225 Willamette St, Eugene, OR, US",44.02137783,-123.0916138,Rhizopogon occidentalis,Rhizopogon occidentalis
+18090653,11/3/18,,155080,2018-11-05 02:57:16 UTC,needs_id,,"Crowleys Ridge State Park,  Greene County, AR, ",36.045319,-90.660692,Rhizopogon,Rhizopogon
+18222486,11/7/18,2018-11-07 22:41:43 UTC,378136,2018-11-07 22:42:30 UTC,needs_id,,"19411 K Pl, Long Beach, WA, US",46.44319617,-124.055823,,Rhizopogon occidentalis
+18317597,11/10/18,2018-11-10 18:14:22 UTC,5179,2018-11-11 01:31:13 UTC,needs_id,,"41843–41951 Little Lake Rd, Mendocino, CA, US",39.31355333,-123.7451033,Rhizopogon,Rhizopogon
+18345761,11/11/18,2018-11-11 20:37:52 UTC,555985,2018-11-12 04:26:28 UTC,needs_id,,"Douglas County, US-OR, US",43.79594596,-124.1588995,Rhizopogon,Rhizopogon
+18367927,11/12/18,2018-11-12 21:01:00 UTC,469820,2019-10-24 06:45:56 UTC,research,,"Jackson County, OR, USA",42.24791389,-122.4681167,Rhizopogon occidentalis,Rhizopogon occidentalis
+18397758,11/11/18,2018-11-11 20:10:37 UTC,824737,2018-11-14 21:39:56 UTC,needs_id,"Habitat: coastal dunes with lodge pole pine, lupine, and coastal grasses; Substrate: sand; Collection ID: CAR-2018-040.","Oregon Dunes National Recreation Area, Gardiner, OR, US",43.79744242,-124.1590978,,Rhizopogon occidentalis
+18398798,11/14/18,2018-11-14 22:18:03 UTC,845369,2019-02-07 04:05:58 UTC,needs_id,,"Oregon Dunes National Recreation Area, Gardiner, OR, US",43.83973885,-124.1559779,Rhizopogon fuscorubens,Rhizopogon
+18423151,11/11/18,2018-11-11 23:02:28 UTC,1231977,2018-11-16 04:38:09 UTC,needs_id,Found single sporocarp in dunes among grass next to shore pines.,"Tankenitch Lake, Gardiner, OR, US",43.80071625,-124.1436283,,Rhizopogon ochraceorubens
+18443796,11/11/18,2018-11-11 20:31:12 UTC,832505,2018-12-01 20:02:18 UTC,needs_id,"1.5- 6.5 cm broad, irregularly shaped, peridium matted-fibillose, whitish yellow in color but darkening with age or handling. Outer flesh covered in red rhizomorphs. Spore-bearing flesh is spongy and white, becoming olive brown with age.",Takhenitch Dunes,43.796963,-124.152004,Rhizopogon occidentalis,Rhizopogon occidentalis
+18452913,10/29/18,2018-10-29 21:40:20 UTC,832303,2018-11-17 18:54:28 UTC,needs_id,,"Woods Creek Rd, Philomath, OR 97370, USA",44.53102361,-123.5452884,Rhizopogon vinicolor,Rhizopogon vinicolor
+18499567,11/11/18,2018-11-11 20:36:31 UTC,824249,2018-11-19 18:30:56 UTC,needs_id,Found under duff of shore pine,"Tankenitch Campground, 79750 US-101, Gardiner, OR 97441, USA",43.77863204,-124.1438911,Rhizopogon salebrosus,Rhizopogon salebrosus
+18508099,11/19/18,2018-11-20 01:11:50 UTC,9572,2018-11-29 00:26:24 UTC,needs_id,,"95437, Fort Bragg, CA, US",39.44241353,-123.7430334,Rhizopogon,Rhizopogon
+18553107,11/21/18,2018-11-21 21:39:05 UTC,3494,2018-11-22 07:30:57 UTC,needs_id,,"College of the Redwoods - Eureka Campus, Eureka, CA, US",40.701775,-124.2036283,,Rhizopogon occidentalis
+18577382,11/16/18,2018-11-17 00:04:32 UTC,998698,2018-11-23 18:48:08 UTC,needs_id,,"Josephine County, US-OR, US",42.28528769,-123.6486437,Rhizopogon occidentalis,Rhizopogon occidentalis
+18590973,11/18/18,2018-11-18 19:09:41 UTC,442423,2018-12-03 17:41:32 UTC,research,,"1826 NW Lester Ave, Corvallis, OR 97330, USA",44.60608292,-123.2775879,Rhizopogon occidentalis,Rhizopogon occidentalis
+18601718,11/24/18,2018-11-24 18:30:53 UTC,378136,2018-11-25 04:34:17 UTC,needs_id,,"1107 195th St, Long Beach, WA, US",46.44333177,-124.0554137,Rhizopogon occidentalis,Rhizopogon occidentalis
+18603843,11/24/18,2018-11-24 18:37:54 UTC,247013,2018-11-29 05:44:21 UTC,research,,"7920 Bodega Ave, Sebastopol, CA, US",38.3983,-122.836595,Rhizopogon occidentalis,Rhizopogon occidentalis
+18617639,10/20/18,2018-10-20 22:20:00 UTC,258652,2018-12-02 06:38:38 UTC,needs_id,"NS3422
+
+NAMF 3793","Pierce County, WA, USA",47.01601491,-121.5460858,Rhizopogon,Rhizopogon
+18637100,11/25/18,2018-11-25 21:59:15 UTC,1037275,2018-11-26 06:36:07 UTC,needs_id,,"The University of British Columbia, Vancouver, BC, CA",49.26679667,-123.2580117,,Rhizopogon
+18668063,10/27/18,2018-10-27 20:59:25 UTC,1231983,2018-11-27 05:04:49 UTC,needs_id,Found at the base of a Pinus contorta bear the coast. Soil was sandy but specimen was buried in the duff. ,"1004 254th Ln, Ocean Park, WA, US",46.48609167,-124.0544583,,Rhizopogon occidentalis
+18743998,11/30/18,2018-11-30 23:38:46 UTC,956264,2020-06-02 23:21:07 UTC,needs_id,"Felt styrofoam like, relatively tough.","6628–6800 Lanphere Rd, Arcata, CA, US",40.88982,-124.1430972,Rhizopogon,Rhizopogon
+18748136,10/12/18,,477643,2020-06-02 11:00:26 UTC,needs_id,,"Salem, Marion Co., Oregon, USA",44.93295,-123.0285,Rhizopogon,Rhizopogon
+18748180,10/12/18,,477643,2020-06-02 11:00:31 UTC,research,,"Salem, Marion Co., Oregon, USA",44.93295,-123.0285,Rhizopogon villosulus,Rhizopogon villosulus
+18748474,10/13/18,,477643,2020-06-02 11:00:59 UTC,needs_id,,"Salem, Marion Co., Oregon, USA",44.93295,-123.0285,Rhizopogon,Rhizopogon
+18748496,10/13/18,,477643,2020-06-02 11:01:01 UTC,research,,"Salem, Marion Co., Oregon, USA",44.93295,-123.0285,Rhizopogon vinicolor,Rhizopogon vinicolor
+18793206,12/2/18,2018-12-02 21:27:55 UTC,179103,2018-12-03 12:37:58 UTC,needs_id,,"Salt Point State Park, Jenner, CA, US",38.58001333,-123.3087383,Rhizopogon,Rhizopogon
+18793224,12/2/18,2018-12-02 21:30:54 UTC,179103,2018-12-03 12:37:41 UTC,needs_id,Red staining,"Salt Point State Park, Jenner, CA, US",38.58001667,-123.30873,Rhizopogon,Rhizopogon
+18793330,12/2/18,2018-12-02 21:37:43 UTC,179103,2018-12-03 15:52:45 UTC,research,Red and blue staining,"Salt Point State Park, Jenner, CA, US",38.5798,-123.3078617,Rhizopogon occidentalis,Rhizopogon occidentalis
+18793882,12/2/18,2018-12-03 00:07:35 UTC,179103,2018-12-03 21:11:11 UTC,needs_id,,"Salt Point State Park, Jenner, CA, US",38.569755,-123.3230133,Rhizopogon,Rhizopogon
+18807698,12/3/18,2018-12-03 19:52:24 UTC,378136,2018-12-04 05:21:33 UTC,needs_id,,"Pacific, , WA, US",46.4407883,-124.0575337,,Rhizopogon
+18808720,12/3/18,2018-12-03 20:39:37 UTC,378136,2018-12-03 20:51:17 UTC,needs_id,,"1205 189th Pl, Long Beach, WA, US",46.4400926,-124.0568191,Rhizopogob,Rhizopogon occidentalis
+18809908,12/3/18,2018-12-03 17:46:33 UTC,1259196,2019-02-27 02:32:17 UTC,needs_id,"Small cluster of 7-8 fruiting bodies. Pale gray gleba. Outer surface yellowish and cracked.  Growing at drip line of planted ponderosa pine on grassy bank of school ground.  I sent images to Jim Trappe. Matt Trappe also weighed in with his opinion but Jim prevailed. His response follows:  Rhizopogon occidentalis is covered with   rhizomorphs covering the surface and usually doesn't turn pink where exposed. However, a lookalike species in SW Oregon does develop brick red patches as it ages. I think of those two as ""the R. occidentalis complex.""  images remind me very much of the R. rubescens-R. vulgaris complex. R. rubescens has lots of adpressed rhizomorphs and in youth stains the pretty pink of Scott's images.  R. vulgaris is similar but devoid of surface rhizomorphs. Its spores also are smaller than R. rubescens. Trouble is, the images show a very few and rather inconspicuous surface rhizomorphs, so it is half way between the two species. Spore size is needed.  the images remind me or a pogie that emerges iunder the pines that have overtaken the old Stehekin schoolhouse. I have called that one R. vulgaris, but these and the several related species need to be sorted out by molecular  methods.  The species discussed above prefer pines to any other trees.","Kennedy Middle School, Eugene, OR, US",44.03722168,-123.152871,Rhizopogon,Rhizopogon
+18820244,12/2/18,2018-12-02 21:26:59 UTC,3494,2018-12-04 17:01:40 UTC,needs_id,,"Salt Point State Park, Jenner, CA, US",38.57986167,-123.3087533,Rhizopogon,Rhizopogon
+18854061,12/2/18,2018-12-03 00:07:56 UTC,3494,2018-12-06 02:16:23 UTC,needs_id,,"Salt Point State Park, Jenner, CA, US",38.56977833,-123.3229967,Rhizopogon,Rhizopogon
+18872276,12/6/18,2018-12-06 22:56:03 UTC,732799,2018-12-07 03:50:08 UTC,needs_id,,"95460, Mendocino, CA, US",39.31431167,-123.7636633,Rhizopogon,Rhizopogon
+18873797,12/6/18,2018-12-06 21:49:19 UTC,732799,2018-12-10 04:09:00 UTC,needs_id,,"95460, Mendocino, CA, US",39.31306167,-123.7643367,Rhizopogon,Rhizopogon
+18890773,12/1/18,,394031,2018-12-10 04:33:55 UTC,needs_id,<p>Many growing very close together in grass with pine trees nearby. Sharp odor (pepper?). Interior light grey to grey green in age.</p>,"Mission Bay, San Diego, California, USA",32.7723,-117.2325,Rhizopogon,Rhizopogon
+18904097,12/8/18,2018-12-08 19:23:51 UTC,771345,2018-12-15 00:49:52 UTC,needs_id,"Under grass matting. Rhizopogon occidentalis
+","Mendocino County, US-CA, US",39.43116088,-123.7604278,,Rhizopogon occidentalis
+18913353,12/8/18,2018-12-08 20:07:21 UTC,3494,2018-12-10 03:44:23 UTC,needs_id,,"Tahoe National Forest, Camptonville, CA, US",39.41713333,-121.1210555,Rhizopogon,Rhizopogon
+18913360,12/8/18,2018-12-08 20:10:29 UTC,3494,2018-12-09 12:50:54 UTC,needs_id,,"Tahoe National Forest, Camptonville, CA, US",39.41787833,-121.1207722,Rhizopogon,Rhizopogon
+18913372,12/8/18,2018-12-08 20:18:50 UTC,3494,2018-12-10 17:46:41 UTC,needs_id,,"Tahoe National Forest, Camptonville, CA, US",39.41787167,-121.1207722,Rhizopogon,Rhizopogon
+18913377,12/8/18,2018-12-08 20:23:10 UTC,3494,2018-12-09 12:50:39 UTC,needs_id,,"Tahoe National Forest, Camptonville, CA, US",39.41816333,-121.1199195,Rhizopogon,Rhizopogon
+18913405,12/8/18,2018-12-08 21:06:31 UTC,3494,2020-06-14 23:29:41 UTC,research,close to ponderosa pine. Reddening reaction on surface when rubbed. Rhizomorphs white. MOTR suggests that R. ochraceorubens is similar to R. ocxidentalis but doesn’t have yellown rhizomorphs and tends to stain more red/orange ,"Tahoe National Forest, Camptonville, CA, US",39.41592,-121.12165,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+18926533,12/9/18,2018-12-09 19:28:35 UTC,996619,2018-12-10 17:55:12 UTC,needs_id,,"1400 New Navy Base Rd, Arcata, CA 95521, USA",40.82628848,-124.1810786,Rhizopogon,Rhizopogon
+18931261,12/8/18,2018-12-08 18:54:31 UTC,5179,2018-12-12 04:53:04 UTC,needs_id,smelled like garlic at maturity,"Yuba County, Tahoe National Forest, US-CA, US",39.42192833,-121.1069805,Rhizopogon,Rhizopogon
+18934778,12/8/18,2018-12-08 18:28:48 UTC,170354,2018-12-10 05:27:26 UTC,needs_id,,"Jackson Demonstration State Forest, Mendocino County, US-CA, US",39.31718167,-123.7602148,,Rhizopogon
+19017982,8/8/18,2018-08-09 02:13:00 UTC,1299956,2018-12-14 20:42:08 UTC,needs_id,Truffle located along the Alpine Trail near Sourgrass Mountain.,"Lane County, OR, USA",43.86416902,-122.5028121,Rhizopogon,Rhizopogon
+19044697,12/12/18,2018-12-12 16:46:06 UTC,1126154,2018-12-16 08:42:32 UTC,needs_id,"Bounced when thrown forcefully on the ground without bursting, tough and rubbery. Smell and taste indistinct ","West Valley College, Saratoga, CA, US",37.26728833,-122.008025,,Rhizopogon
+19058219,9/26/09,2009-09-26 20:00:00 UTC,304776,2019-01-16 14:50:25 UTC,research,"Siltcoos area, pines and spruce-stabilized dunes","Lane County, OR, USA",43.87595769,-124.1437073,Rhizopogon occidentalis,Rhizopogon occidentalis
+19068860,8/13/17,2017-08-14 00:49:53 UTC,1392135,2018-12-17 21:43:02 UTC,needs_id,,"4330 Scr 504 H, Bay Springs, MS, US",31.970755,-89.33358833,Rhizopogon,Rhizopogon
+19078717,12/15/18,2018-12-15 21:50:50 UTC,399598,2018-12-18 02:42:28 UTC,needs_id,,"San Luis Obispo County, US-CA, US",35.55529667,-121.0947112,,Rhizopogon occidentalis
+19091236,12/18/18,,393367,2018-12-19 03:39:40 UTC,needs_id,under monterrey pine... some kind of false truffle?,"Oakland, CA, USA",37.88048986,-122.2451223,Rhizopogon occidentalis,Rhizopogon occidentalis
+19094576,12/18/18,2018-12-18 23:43:35 UTC,19715,2018-12-19 19:46:47 UTC,needs_id,,"93428, Cambria, CA, US",35.53831333,-121.0821445,Rhizopogon,Rhizopogon
+19141524,12/15/18,2018-12-15 23:51:00 UTC,404559,2018-12-21 22:52:31 UTC,needs_id,,"Cambria, CA, USA",35.55527778,-121.0945889,Rhizopogon occidentalis,Rhizopogon occidentalis
+19148487,12/21/18,2018-12-21 19:36:15 UTC,179103,2018-12-22 20:02:38 UTC,needs_id,,"Año Nuevo State Park, Pescadero, CA, US",37.1188195,-122.3131333,Rhizopogon,Rhizopogon
+19148510,12/21/18,2018-12-21 19:38:02 UTC,179103,2018-12-22 20:02:19 UTC,needs_id,,"Año Nuevo State Park, Pescadero, CA, US",37.11891667,-122.3132467,Rhizopogon,Rhizopogon
+19148808,11/16/18,2018-11-16 17:38:00 UTC,17695,2018-12-22 16:19:02 UTC,needs_id,,"Sonoma, California, United States",38.41951111,-122.83645,Rhizopogon,Rhizopogon
+19157042,12/21/18,2018-12-21 19:35:48 UTC,3494,2018-12-22 22:27:08 UTC,needs_id,,"Año Nuevo State Park, Pescadero, CA, US",37.11870283,-122.3133083,Rhizopogon,Rhizopogon
+19157093,12/21/18,2018-12-21 19:34:47 UTC,3494,2018-12-23 19:47:49 UTC,needs_id,"Feeding in rhizopogon from this observation
+https://www.inaturalist.org/observations/19157042","Año Nuevo State Park, Pescadero, CA, US",37.11873883,-122.3131467,Achilid Planthoppers,Achilidae
+19157108,12/21/18,2018-12-21 19:38:09 UTC,3494,2018-12-22 19:47:19 UTC,needs_id,,"Año Nuevo State Park, Pescadero, CA, US",37.11884717,-122.3132383,,Rhizopogon
+19176981,12/14/18,2018-12-14 17:28:03 UTC,37453,2018-12-27 23:45:16 UTC,needs_id,,"Point Reyes National Seashore, Marin County, US-CA, US",37.93229702,-122.7296319,Rhizopogon,Rhizopogon
+19184578,12/23/18,2018-12-24 00:38:56 UTC,1365146,2018-12-24 14:57:51 UTC,needs_id,"Next to Douglas fir, 1.5-2”, sponge like, smelled slightly like cloves
+","Del Norte County, US-CA, US",41.70632962,-123.8605069,Rhizopogon,Rhizopogon
+19188579,12/23/18,2018-12-23 21:32:00 UTC,168642,2019-01-21 23:11:48 UTC,research,I think,"800 Quail Hollow Rd, Felton, CA 95018, USA",37.0843571,-122.0614699,Rhizopogon occidentalis,Rhizopogon occidentalis
+19223747,12/25/18,2018-12-25 23:15:35 UTC,3494,2018-12-26 05:44:41 UTC,needs_id,,"Redwood Regional Park, Oakland, CA, US",37.80683833,-122.1738883,Rhizopogon,Rhizopogon
+19223761,12/25/18,2018-12-25 23:16:41 UTC,3494,2020-06-15 03:28:51 UTC,research,Fruiting from between rhizopogon ,"Redwood Regional Park, Oakland, CA, US",37.80705333,-122.1735167,Pungent Slippery Jack,Suillus pungens
+19236544,12/25/18,2018-12-25 21:03:24 UTC,364529,2018-12-26 21:11:21 UTC,needs_id,Under ponderosa pine,"Dobbins, CA 95935, USA",39.36594772,-121.1464691,Rhizopogon,Rhizopogon
+19271618,12/28/18,2018-12-28 16:51:00 UTC,322150,2018-12-28 18:47:14 UTC,research,under torrey pine,"La Jolla Shores, San Diego, CA 92037, USA",32.86615,-117.250075,Rhizopogon occidentalis,Rhizopogon occidentalis
+19298081,12/29/18,2018-12-29 22:34:49 UTC,19715,2019-01-01 21:32:28 UTC,needs_id,,"93428, Cambria, CA, US",35.53783,-121.0822,Rhizopogon,Rhizopogon
+19500473,1/7/19,2019-01-07 23:01:30 UTC,242882,2019-01-07 23:57:30 UTC,needs_id,Under Pinus radiats,"Pt San Pedro Rd, San Rafael, CA, US",37.98372,-122.4709033,,Rhizopogon occidentalis
+19505834,1/6/19,2019-01-06 19:24:17 UTC,28,2019-01-08 04:53:37 UTC,needs_id,,"Salt Point State Park, Jenner, CA, US",38.57944167,-123.30693,Rhizopogon,Rhizopogon
+19516807,1/8/19,2019-01-08 19:29:00 UTC,322150,2019-01-08 19:44:29 UTC,needs_id,Under Torrey Pine; coastal chaparral habitat ,"La Jolla Shores, San Diego, CA 92037, USA",32.86633333,-117.24965,Rhizopogon occidentalis,Rhizopogon occidentalis
+19522733,1/8/19,2019-01-09 00:29:30 UTC,364529,2019-01-10 23:50:25 UTC,research,"Growing under Doug fir, Ponderosa pine, canyon live oak. Thought it was a puff ball since it had ruptured from the ground. Texture like industrial foam. ","15397 Flying Cloud Dr, Grass Valley, CA 95945, USA",39.22687531,-120.9606094,Rhizopogon occidentalis,Rhizopogon occidentalis
+19560887,1/10/19,2019-01-10 23:54:18 UTC,364529,2019-01-10 23:58:10 UTC,needs_id,"Found among Fat Jacks so Douglas Fir nearby maybe matters? Also, alders, Ponderosa pine and dogwood nearby. ","13287 Grizzly Trail, Grass Valley, CA 95945, USA",39.22872735,-120.9537351,Rhizopogon,Rhizopogon
+19721047,1/18/19,2019-01-18 22:56:38 UTC,426579,2019-01-28 18:02:45 UTC,research,"Buried just under the surface in mixed conifer woodland, spongy","14663 Greenhorn Rd, Grass Valley, CA 95945, USA",39.21443176,-120.9943542,Rhizopogon occidentalis,Rhizopogon occidentalis
+19748761,1/19/19,2019-01-19 23:28:18 UTC,24754,2019-01-20 05:18:37 UTC,needs_id,,"Unnamed Road, Livermore, CA 94550, USA",37.55627823,-121.6134949,Rhizopogon,Rhizopogon
+19748883,1/19/19,2019-01-19 23:44:28 UTC,24754,2019-01-20 04:58:22 UTC,needs_id,,"Unnamed Road, Livermore, CA 94550, USA",37.55614853,-121.613678,Rhizopogon,Rhizopogon
+19824212,1/20/19,2019-01-20 17:20:58 UTC,170354,2019-01-24 04:27:28 UTC,needs_id,,"Manzanita Youth Sports Complex, Salinas, CA, US",36.80086645,-121.6784214,Rhizopogon,Rhizopogon
+19876829,1/24/19,,394031,2019-01-26 07:35:25 UTC,needs_id,,"Carmel Mountain Preserve, San Diego, California, USA",32.93985,-117.2135,Rhizopogon,Rhizopogon
+19960312,11/15/17,2017-11-15 19:20:23 UTC,1131181,2019-02-03 22:03:07 UTC,needs_id,,"Coconino National Forest, Flagstaff, AZ, US",35.18399667,-111.6711417,Rhizopogon,Rhizopogon
+20019554,10/30/14,2014-10-30 18:22:00 UTC,70841,2019-09-24 04:22:19 UTC,needs_id,,"Franklin Parker Preserve, Chatsworth, Burlington Co., NJ",39.800675,-74.553856,Rhizopogon,Rhizopogon
+20075347,2/3/19,2019-02-03 20:34:20 UTC,132236,2019-09-08 20:26:42 UTC,research,"This had a very long lasting bitter taste! Also, we were surprised to find a Rhizopogon growing just beneath the stipe tip of the largest mushroom specimen. I don't know if that was merely coincidental or if there's any sort of connection between the Rhizopogon and the mushroom. You can see it in the last image of this photo set and also in its own iNaturalist observation: https://www.inaturalist.org/observations/20075387","San Luis Obispo County, US-CA, US",35.43230228,-121.1178679,Skællet ridderhat,Tricholoma imbricatum
+20075387,2/3/19,2019-02-03 20:36:28 UTC,132236,2019-02-04 18:55:54 UTC,needs_id,I think... Please correct me if I am wrong about the species! This was found growing directly beneath the stipe tip of a large Tricholoma imbricatum mushroom (see last image of the photo set). I don't know if that was merely coincidental or if there's any sort of connection.,"San Luis Obispo County, US-CA, US",35.50183575,-121.0089614,Rhizopogon occidentalis,Rhizopogon occidentalis
+20142124,2/3/19,2019-02-03 19:15:00 UTC,108450,2019-02-06 19:46:28 UTC,needs_id,"This wsubterranean fruiting body was found growing directly beneath the stipe of a large Tricholoma imbricatum. In appearance and habitat it is spot-on for R. occidentalis, however, I can not be certain it is not the very similar R. ochraceorubens so for now I am leaving it as Rhizopogon sp. ","San Luis Obispo County, US-CA, US",35.40577296,-121.0178303,Rhizopogon,Rhizopogon
+20148677,2/2/19,2019-02-02 17:37:42 UTC,5179,2020-06-14 06:53:49 UTC,research,,"Henry Cowell Redwoods State Park, Scotts Valley, CA, US",37.028725,-122.0449362,Rhizopogon occidentalis,Rhizopogon occidentalis
+20175169,10/3/10,2010-10-03 21:55:00 UTC,722991,2019-02-07 05:56:26 UTC,needs_id,"Damp area in Sitka Spruce, Shore Pine forest.  Sandy soil.","Lane County, OR, USA",44.06082903,-124.1107015,Rhizopogon occidentalis,Rhizopogon occidentalis
+20175318,11/21/05,2005-11-22 05:51:00 UTC,722991,2019-04-08 02:53:21 UTC,needs_id,,"Lane County, OR, USA",44.05956823,-124.10983,Rhizopogon,Rhizopogon
+20247480,2/9/19,2019-02-09 23:22:28 UTC,442780,2019-02-10 14:07:00 UTC,research,,"Point Reyes National Seashore, Inverness, CA, US",38.04676117,-122.8540333,Rhizopogon occidentalis,Rhizopogon occidentalis
+20248205,1/26/19,2019-01-27 00:47:00 UTC,17695,2019-02-10 07:24:03 UTC,needs_id,,"Napa County, CA, USA",38.4850076,-122.1461382,Rhizopogon,Rhizopogon
+20282058,2/9/19,2019-02-09 23:22:42 UTC,1169046,2019-02-13 08:30:42 UTC,research,,"Laguna Trail, Point Reyes Station, CA 94956, USA",38.04676819,-122.8540268,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+20294643,10/13/18,2018-10-13 19:26:00 UTC,398340,2019-03-11 04:48:13 UTC,needs_id,,"Cape Cod National Seashore, Wellfleet, MA 02667, USA",41.90513744,-69.97574806,Rhizopogon,Rhizopogon
+20375187,2/15/19,2019-02-16 00:37:03 UTC,1425430,2019-02-18 06:32:46 UTC,needs_id,,"Sharp Park, Pacifica, CA, US",37.62663214,-122.4753621,Rhizopogon,Rhizopogon
+20479631,5/5/12,,1472604,2019-02-19 06:26:28 UTC,casual,"Observed at: BioBlitz 2012
+Certifying auth: Oluna Ceska",YMCA Camp Thunderbird,48.42,-123.63,Rhizopogon ellenae,Rhizopogon ellenae
+20748243,2/24/19,,1424894,2019-02-25 06:37:12 UTC,needs_id,"found while raking detritus, fir needles, rotted wood ","Capital, CA-BC, CA",48.939948,-123.479371,Rhizopogon parksii,Rhizopogon parksii
+21000211,12/31/12,,5179,2019-03-06 19:19:46 UTC,needs_id,"Found erumpent from hard red clay soil in area dominated by Arctostaphylos. Nearby (<3 but <30 m distance) shrubs inlcuded Channel Islands Scrub Oak (Quercus pacifica), Summer Holly (Comarostaphylis diversifolia), and Chamise (Adenostoma fasciculatum).
+
+No conifers anywhere nearby. ","Islay Canyon Road, Santa Cruz Island, Santa Barbara County, CA, USA",33.996022,-119.737953,Rhizopogon mengei,Rhizopogon mengei
+21001748,1/11/19,2019-01-11 18:56:00 UTC,1295270,2020-03-26 22:10:23 UTC,needs_id,found in a Bishop pine and Monterrey cypress forest ,"Mendocino County, CA, USA",39.462799,-123.804738,Rhizopogon,Rhizopogon
+21129024,3/10/19,2019-03-10 22:10:05 UTC,851163,2019-04-04 09:20:55 UTC,needs_id,,"Oceanpoint Ranch, Cambria, CA 93428, USA",35.58251572,-121.120369,Rhizopogon,Rhizopogon
+21181517,3/4/19,2019-03-04 18:09:44 UTC,928378,2019-03-13 23:42:47 UTC,research,Some sort of fungus,"2350–2398 Cordero Rd, San Diego, CA, US",32.9465703,-117.2524114,Rhizopogon occidentalis,Rhizopogon occidentalis
+21196797,6/15/11,,1174719,2019-03-13 04:42:52 UTC,needs_id,<p>with lodgepole pine.  Odor mild.</p>,"Pend Oreille Co., Washington, USA",48.52305,-117.331,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+21197080,8/7/11,,1174719,2019-03-13 04:49:23 UTC,needs_id,,"Monumental Mountain, Colville National Forest, Washington, USA",48.6781,-117.178,Rhizopogon subsalmonius,Rhizopogon subsalmonius
+21197086,8/7/11,,1174719,2019-03-13 04:49:41 UTC,needs_id,"<p>This keyed fairly well to Rhizopogon evadens, but the description of the coloring was a little off.</p>","Monumental Mountain, Colville National Forest, Washington, USA",48.6781,-117.178,Rhizopogon,Rhizopogon
+21472082,3/19/19,2019-03-19 20:55:02 UTC,5179,2019-03-27 06:00:40 UTC,needs_id,,"University of California, Santa Cruz, Santa Cruz, CA, US",37.00456112,-122.0625388,Rhizopogon,Rhizopogon
+21621697,2/25/19,2019-02-26 06:02:17 UTC,1551174,2019-03-26 16:24:21 UTC,needs_id,,"2231–2295 Qualcomm Way, San Diego, CA, US",32.77637889,-117.1409473,Rhizopogon,Rhizopogon
+21727942,3/3/19,,394031,2019-03-30 09:49:28 UTC,needs_id,"<p>Group of 2 growing under Torrey Pine. 3.5-4 cm wide, cracking and covered with yellow/orange rhizomorphs, sponge-like grey gleba. Strong earthy odor.</p>","Carmel Mountain Preserve, San Diego, California, USA",32.93985,-117.2135,Rhizopogon,Rhizopogon
+21765148,3/29/19,2019-03-29 20:38:16 UTC,132236,2019-03-31 02:04:24 UTC,needs_id,Growing under coastal Cypress; odor not distinct; spongy flesh,"San Luis Obispo County, US-CA, US",35.48844087,-121.0924934,Rhizopogon,Rhizopogon
+21930011,4/1/19,2019-04-01 22:10:12 UTC,540556,2019-04-09 23:56:14 UTC,needs_id,"Under leaf litter, fine mycelium threads, tasteless, turning yellow and purple veins","4916 119th Pl NE, Kirkland, WA 98033, USA",47.65350503,-122.1789276,Rhizopogon vinicolor,Rhizopogon vinicolor
+23017369,4/20/19,2019-04-20 18:43:00 UTC,300530,2019-04-27 03:00:46 UTC,needs_id,,"Dunes City, OR, USA",43.91277497,-124.1102475,Rhizopogon,Rhizopogon
+24771390,5/7/19,2019-05-08 02:48:51 UTC,1622698,2020-06-02 12:47:11 UTC,needs_id,,"2109 Shaughnessy Hill, Kamloops, BC, CA",50.64223424,-120.3559948,,Rhizopogon
+24808264,5/7/19,2019-05-07 20:00:25 UTC,442423,2020-03-27 03:11:01 UTC,needs_id,"Under decaying redwood stump, after the tree was burned/killed in a fire","Curry County, US-OR, US",42.09292221,-124.1968613,Rhizopogon,Rhizopogon
+25144862,5/10/19,2019-05-10 15:22:00 UTC,979112,2019-05-15 03:55:43 UTC,needs_id,,"Thompson-Nicola, BC, Canada",51.87758156,-119.9218457,Rhizopogon,Rhizopogon
+25774418,5/25/19,2019-05-25 12:31:14 UTC,1764012,2019-05-26 00:20:24 UTC,needs_id,,"Texas, US",29.10688491,-98.18637767,Rhizopogon,Rhizopogon
+25896822,11/6/17,,931715,2019-05-27 19:58:45 UTC,needs_id,,"Peachtree City, Georgia, USA",33.3919,-84.5865,Rhizopogon nigrescens,Rhizopogon nigrescens
+26227754,6/1/19,2019-06-01 19:42:55 UTC,1348472,2019-06-02 03:36:05 UTC,needs_id,,"Eldorado National Forest, El Dorado County, US-CA, US",38.88898193,-120.4554721,,Rhizopogon
+26286007,6/2/19,2019-06-02 21:22:21 UTC,748641,2019-06-02 22:40:04 UTC,needs_id,,"111 Lyon St NW, Grand Rapids, MI, US",42.96849667,-85.67015,,Rhizopogon
+26519030,6/6/19,2019-06-06 21:30:48 UTC,776534,2019-06-06 22:20:10 UTC,needs_id,,"Daytona Beach, FL 32114, USA",29.21097946,-81.0318222,Rhizopogon,Rhizopogon
+26703557,6/9/19,2019-06-09 21:15:14 UTC,1072328,2019-06-09 21:16:13 UTC,needs_id,,"Mt Spokane State Park, Mead, WA, US",47.92182026,-117.1123174,,Rhizopogon
+26787856,6/9/19,2019-06-09 19:50:05 UTC,1174719,2019-06-12 03:48:50 UTC,research,Under Pinus ponderosa. 3cm in diameter; spores 6.0-9.0x2.5-3.5u. ,"1091–2087 Indian Creek Rd, Newport, WA, US",48.25353106,-117.1346459,Rhizopogon salebrosus,Rhizopogon salebrosus
+26883621,6/12/19,2019-06-12 16:20:14 UTC,1805334,2019-06-12 21:28:05 UTC,needs_id,I have no idea what this one is. It looks like a dried up little witch hat that when opened reveals what I believe are spores but has an almost cotton like texture. Several found.,"South Lakes Park, Denton, TX, US",33.17814275,-97.13176368,,Rhizopogon
+27388583,6/19/19,2019-06-19 16:26:54 UTC,1174719,2019-06-21 18:03:27 UTC,needs_id,,"99139, Ione, WA, US",48.79755695,-117.1352407,,Rhizopogon subsalmonius
+27613824,6/24/19,2019-06-24 21:13:18 UTC,1558874,2019-06-25 04:21:54 UTC,needs_id,,"Wildcat Hills State Recreation Area, Gering, NE, US",41.70765333,-103.6760033,,Rhizopogon
+27616004,4/30/19,,932255,2019-06-25 05:31:20 UTC,needs_id,,"Olympia, WA 98505, USA",47.06860277,-122.9822827,Rhizopogon,Rhizopogon
+27743285,2/18/19,,1809960,2019-07-06 05:09:12 UTC,needs_id,,"San Bernardino County, US-CA, US",34.03699551,-117.2944904,Rhizopogon,Rhizopogon
+28144223,7/3/19,2019-07-03 23:01:15 UTC,1935557,2019-07-03 23:12:36 UTC,needs_id,,"314 Herron Lane KP N, Lakebay, WA, US",47.26010471,-122.8391925,,Rhizopogon
+28449048,6/26/19,,1889525,2019-07-08 18:25:40 UTC,needs_id,,"Clallam County, WA, USA",47.93015708,-123.7363329,Rhizopogon,Rhizopogon
+28482096,7/8/19,2019-07-08 21:59:00 UTC,1178728,2019-07-09 05:23:12 UTC,needs_id,,"Clark County, WA, USA",45.72710731,-122.2666465,Rhizopogon,Rhizopogon
+28750070,6/30/19,,295807,2019-07-13 20:06:32 UTC,needs_id,,"SW Mount Hood, Clackamas Co., Oregon, USA",45.31605,-121.81,Rhizopogon,Rhizopogon
+28839164,7/14/19,2019-07-14 19:24:03 UTC,65540,2019-07-15 04:22:55 UTC,needs_id,"Growing in duff with species of Pinaceae, Tsuga, Picea and Pseudotsuga. ","Lost Lake Park, Whistler, BC, CA",50.1264195,-122.9386,,Rhizopogon
+28991049,2/18/19,2019-02-18 12:42:42 UTC,1994351,2019-07-17 11:45:04 UTC,needs_id,,"1701–1799 Civic Dr, DuPont, WA, US",47.1049305,-122.6487967,,Rhizopogon
+29042259,7/16/19,,1198147,2019-07-18 07:16:27 UTC,needs_id,,"Okanagan-Similkameen, British Columbia, Canada",49.14202222,-120.2751167,Rhizopogon,Rhizopogon
+29136186,7/4/19,,295807,2020-04-13 18:35:00 UTC,needs_id,,"Mount Hood National Forest, Clackamas Co., Oregon, USA",45.1752,-121.9935,Rhizopogon,Rhizopogon
+29138134,7/19/19,2019-07-19 21:51:04 UTC,300689,2019-07-19 21:53:53 UTC,needs_id,,"Crown Hill, Seattle, WA, USA",47.69743334,-122.3727481,Rhizopogon,Rhizopogon
+29196142,7/13/19,2019-07-13 19:01:00 UTC,845914,2019-07-20 20:28:22 UTC,needs_id,,"Russell Greene Natural Area, VT, USA",44.68634289,-73.08980152,Rhizopogon,Rhizopogon
+29248709,7/21/19,2019-07-21 12:02:34 UTC,1500010,2019-07-21 23:59:43 UTC,needs_id,,"1107 Fern Hill Rd, Pikeville, TN, US",35.549675,-85.31292833,,Rhizopogon
+29354212,7/22/19,2019-07-22 19:33:16 UTC,682730,2019-07-23 01:23:46 UTC,needs_id,,"Skamania County, WA, USA",46.28735352,-121.9702148,Rhizopogon,Rhizopogon
+29467926,7/24/19,2019-07-24 21:02:28 UTC,1528979,2019-07-24 21:03:38 UTC,needs_id,,"23–99 Park Ave, Chautauqua, NY, US",42.20511667,-79.46429066,,Rhizopogon
+30260158,8/3/19,2019-08-03 19:52:00 UTC,1215480,2019-08-05 18:58:39 UTC,needs_id,,"C.U., Ciudad de México, CDMX, México",19.330316,-99.18976,Rhizopogon,Rhizopogon
+30428749,8/1/19,2019-08-01 16:15:37 UTC,1889497,2019-08-08 15:57:45 UTC,needs_id,,"Mark S. Burnham Provincial Park, Otonabee-South Monaghan, ON, CA",44.29752167,-78.27028667,,Rhizopogon
+30484700,8/1/19,2019-08-01 16:15:26 UTC,1099565,2019-08-09 15:41:47 UTC,needs_id,,"Peterborough, ON K9J 6X9, Canada",44.29419327,-78.28231812,Rhizopogon,Rhizopogon
+30516771,11/21/97,1997-11-22 02:46:00 UTC,997772,2019-09-14 18:36:44 UTC,needs_id,,"Whatcom County, WA, USA",48.732719,-122.378199,Rhizopogon parksii,Rhizopogon parksii
+30645598,8/11/19,2019-08-11 22:06:28 UTC,2021139,2019-08-11 22:06:51 UTC,needs_id,,"695 Noe St, San Francisco, CA, US",37.7579856,-122.4323353,,Rhizopogon
+30771411,8/9/19,2019-08-09 17:32:56 UTC,3494,2019-08-13 20:24:36 UTC,needs_id,,"Deschutes National Forest, Sisters, OR, US",44.02605,-121.8162917,,Rhizopogon
+30771769,8/9/19,2019-08-09 17:40:22 UTC,3494,2019-08-13 20:28:36 UTC,needs_id,,"Deschutes National Forest, Sisters, OR, US",44.026825,-121.81627,,Rhizopogon
+30796158,8/9/19,2019-08-09 18:32:46 UTC,3494,2019-08-14 05:03:24 UTC,needs_id,,"Deschutes National Forest, Sisters, OR, US",44.0404445,-121.8255783,,Rhizopogon
+30796195,8/13/19,2019-08-14 01:11:03 UTC,25945,2019-08-14 14:03:46 UTC,needs_id,,"Senguio Municipality, Michoacán, Mexico",19.72675312,-100.3514981,Rhizopogon,Rhizopogon
+30807646,8/9/19,2019-08-09 19:15:46 UTC,3494,2019-08-14 13:29:39 UTC,needs_id,,"Deschutes National Forest, Sisters, OR, US",44.04149717,-121.81665,,Rhizopogon
+30807803,8/9/19,2019-08-09 20:50:45 UTC,3494,2019-08-14 16:21:41 UTC,needs_id,,"Deschutes National Forest, Sisters, OR, US",44.03484717,-121.8199083,Rhizopogon,Rhizopogon
+30845325,8/11/19,2019-08-12 01:38:30 UTC,1447224,2019-08-15 00:30:32 UTC,needs_id,,"Improvement District No. 12, AB T0E, Canada",52.72900772,-117.6254654,Rhizopogon,Rhizopogon
+30910296,8/15/19,2019-08-15 22:51:09 UTC,1110235,2019-10-29 18:13:51 UTC,needs_id,On moss under Birch on the roadside. ,"Norton, VA 24273, USA",36.90989685,-82.62969971,Rhizopogon,Rhizopogon
+31094344,8/18/19,2019-08-18 18:30:20 UTC,1932126,2019-08-19 16:11:20 UTC,needs_id,,"Tulaby Lake Dr, Waubun, MN, US",47.14211953,-95.5884922,,Rhizopogon
+31128155,8/18/19,2019-08-18 19:49:43 UTC,443895,2019-08-19 17:16:29 UTC,needs_id,,"Rocky Mountain National Park, Ward, CO, US",40.196225,-105.5489117,,Rhizopogon
+31144798,8/19/19,2019-08-19 21:44:04 UTC,712654,2020-06-10 03:41:52 UTC,needs_id,"Spores globose, 10µm wide, ornamented. FB 2.5cm across. On soil in hardwood forest","High Rock Park, New York, NY, US",40.58825688,-74.12212227,Rhizopogon,Rhizopogon
+31356303,8/23/19,2019-08-23 14:48:29 UTC,626222,2019-08-24 16:45:23 UTC,needs_id,"A bunch of these caps were located under some trees popping out of the underbrush. Very short stemmed and no gills visible. Maybe they’re still coming up and will reveal gills in time. 
+*update. Interestingly they smell like portobello mushrooms but when cut, look almost completely black. ","Belchertown Rd, Amherst, MA, US",42.370505,-72.50002167,,Rhizopogon
+31380740,8/23/19,2019-08-23 21:46:52 UTC,626222,2019-08-24 01:47:07 UTC,needs_id,,"Amherst, MA, US",42.37878333,-72.48463333,,Rhizopogon
+31503437,8/24/19,2019-08-24 17:36:20 UTC,626222,2019-08-25 21:12:52 UTC,needs_id,,"Amherst, MA, US",42.37835,-72.48236167,,Rhizopogon
+31822718,8/30/19,2019-08-31 00:46:49 UTC,1777492,2019-08-31 00:49:21 UTC,needs_id,,"Sunset Dr, Pacific Grove, CA, US",36.61379667,-121.9296883,,Rhizopogon
+31834182,8/30/19,2019-08-30 21:21:00 UTC,3494,2019-09-01 06:01:09 UTC,needs_id,,"Cochise, Arizona, United States",31.91361111,-109.2697222,Rhizopogon,Rhizopogon
+31834183,8/30/19,2019-08-30 21:22:00 UTC,3494,2019-09-12 00:09:55 UTC,needs_id,in soil next to Pinus ponderosa,"Cochise, Arizona, United States",31.914925,-109.2691583,Rhizopogon,Rhizopogon
+31882991,8/31/19,2019-08-31 18:31:03 UTC,5179,2019-08-31 23:24:08 UTC,needs_id,,"Cochise County, US-AZ, US",31.76929052,-109.3423962,Rhizopogon,Rhizopogon
+31948559,12/3/18,2018-12-04 02:01:00 UTC,794555,2020-02-03 19:08:38 UTC,needs_id,"NAMP #	08124
+
+DATE:	03, 08, & 27 DEC 2018
+
+STATE:	WA
+
+COUNTY:	PIERCE
+
+FORAY ID:	Mycoflora Project.
+
+SITE NAME:	McChord Air Force Base, Lakewood, WA
+
+iNat #:	31948559
+
+NEARBY FLORA:	Douglas Fir.
+
+SUBSTRATE:	Dense Humus Soil, Needle Duff, Grass, Moss.
+
+HABIT:	Single to Few to Many (as many as 8 within 1-foot area).
+
+LIGHT EXPOSURE: 	Partial shade to full sun (50% of day)
+
+ODOR:	Mild Musky, pleasant smell.
+
+TASTE:	Nutty, mild.
+
+REFERENCES:	Mushrooms of the Redwood Coast (Siegel & Schwarz), pg 543; 
+	
+DETAILED PHYSICAL DESCRIPTION: 
+
+FRUIT BODY:
+	1 – 4 cm across/long, sometimes round-ish or ovoid, but always irregularly shaped...very much like a Jerusalem Artichoke Bulb.  Color varies based on age, from dingy white to grayish, to a dirty pink distributed irregularly on the surface.  The oldest specimens are nearly black.  The surface is dry, even with rains.  The surface is somewhat Tomentose which is matted.  .  
+
+INTERIOR:
+	Firm, Rubbery, sponge-like but very tight, of a light grey-green Mossy color with dark-brown blobs in some specimens. With age, they turn a medium Rusty Brown, and eventually turn a dark grey-green.
+
+SPORES:	Ostensibly pale yellow.
+
+MYCELIA:	Black, matted, hairy-like, and about 1 cm long, if present.
+","McChord Air Force Base, Lakewood, Pierce County, Washington, USA",47.122791,-122.503105,Rhizopogon hawkerae,Rhizopogon hawkerae
+31996320,9/2/19,2019-09-02 17:19:00 UTC,1425953,2019-09-14 19:16:56 UTC,needs_id,Old bracket fungus that has fallen off a tree. Probably impossible to identify now.,"Capital, CA-BC, CA",48.74539268,-123.5463577,Rhizopogon,Rhizopogon
+32002885,8/25/19,2019-08-26 01:43:00 UTC,865668,2019-09-02 19:14:35 UTC,needs_id,,"West Bloomington, Bloomington, MN, USA",44.83958784,-93.37260029,Rhizopogon,Rhizopogon
+32038963,9/2/19,2019-09-03 06:23:38 UTC,1424740,2019-09-03 06:25:07 UTC,needs_id,,"N Branch Ct, Valley Springs, CA, US",38.17944238,-120.8260483,,Rhizopogon
+32072454,9/3/19,2019-09-03 20:56:39 UTC,2133477,2019-09-03 20:58:41 UTC,needs_id,,"Northeastern University, Boston, MA, US",42.33700021,-71.09340797,,Rhizopogon
+32166750,9/5/19,2019-09-05 16:18:56 UTC,799963,2019-09-05 16:35:15 UTC,needs_id,,"Valmire Dr, Columbia, SC, US",34.06319167,-81.15971392,,Rhizopogon
+32183230,9/5/19,2019-09-05 21:07:10 UTC,2217591,2019-09-05 21:08:50 UTC,needs_id,,"The Sakura Grove, Toronto, ON, CA",43.7832031,-79.18630455,,Rhizopogon
+32271124,9/7/19,2019-09-07 15:12:00 UTC,2208660,2019-09-07 15:13:27 UTC,needs_id,,"Dumbarton Oaks Park, Washington, DC, US",38.91504431,-77.06274848,,Rhizopogon
+32275613,9/6/19,2019-09-06 18:28:28 UTC,122574,2019-11-15 14:15:06 UTC,needs_id,,"Upper Klamath National Wildlife Refuge, Klamath Falls, OR, US",42.529705,-122.06005,Rhizopogon,Rhizopogon
+32358893,9/8/19,2019-09-08 17:10:01 UTC,2163837,2019-09-08 18:51:24 UTC,needs_id,,"Lapel, IN 46051, USA",40.085392,-85.85875702,Rhizopogon,Rhizopogon
+32490756,9/10/19,2019-09-10 14:43:54 UTC,1352532,2019-09-11 02:24:44 UTC,needs_id,,"5, LA, USA",31.06718636,-93.08581543,Rhizopogon,Rhizopogon
+32527771,9/11/19,2019-09-11 14:38:59 UTC,2212007,2019-09-11 14:40:27 UTC,needs_id,,"Terre Haute, IN 47807, USA",39.47027787,-87.39981464,Rhizopogon,Rhizopogon
+32715527,9/14/19,2019-09-14 19:00:49 UTC,940279,2019-09-14 19:03:22 UTC,needs_id,,"East Marlborough Township, PA 19348, USA",39.86991373,-75.6768842,Rhizopogon,Rhizopogon
+32855777,9/11/19,2019-09-12 00:39:59 UTC,1408082,2019-09-16 20:48:14 UTC,needs_id,,"95959, Nevada City, CA, US",39.25436899,-121.0052254,,Rhizopogon
+32857470,9/16/19,2019-09-16 21:10:38 UTC,1021623,2019-09-16 21:14:06 UTC,needs_id,,"Barnstable County, US-MA, US",41.88187151,-70.00132871,Rhizopogon,Rhizopogon
+32892302,9/17/19,2019-09-17 13:52:59 UTC,1054256,2019-09-17 14:43:49 UTC,needs_id,,"Lindenwold, NJ, USA",39.83174145,-74.99310125,Rhizopogon,Rhizopogon
+32914073,9/17/19,2019-09-17 16:17:46 UTC,2272095,2019-09-17 21:18:07 UTC,needs_id,,"University of Arkansas, Fayetteville, AR, US",36.06464207,-94.16995081,,Rhizopogon
+32915976,9/17/19,2019-09-17 21:55:49 UTC,2256534,2019-09-17 21:57:28 UTC,needs_id,,"Maplehurst Rd, Seguin, ON, CA",45.242205,-79.64711167,,Rhizopogon
+32929498,8/27/19,2019-08-27 17:43:48 UTC,1348472,2019-09-18 04:48:13 UTC,needs_id,,"Kings Canyon National Park, Shaver Lake, CA, US",36.83445,-118.408295,Rhizopogon,Rhizopogon
+32958991,9/18/19,2019-09-18 16:25:15 UTC,2275521,2019-09-18 16:32:52 UTC,needs_id,,"Penn State Undergraduate Admissions, State College, PA, US",40.79666444,-77.8623763,,Rhizopogon
+33032078,9/19/19,2019-09-19 21:04:04 UTC,986243,2019-09-21 00:15:46 UTC,needs_id,,"S Highway 97, Bend, OR, US",43.96640771,-121.3409031,,Rhizopogon
+33096112,9/19/19,2019-09-19 17:43:39 UTC,2280995,2019-09-20 21:54:30 UTC,needs_id,,"Seward Park, Seattle, WA, US",47.55215,-122.2549133,,Rhizopogon
+33103928,9/20/19,2019-09-20 20:42:40 UTC,730243,2019-09-21 00:36:25 UTC,needs_id,,"Klamath County, US-OR, US",43.56167388,-121.9599959,,Rhizopogon
+33116519,9/20/19,2019-09-20 19:44:00 UTC,1178728,2019-09-21 06:39:50 UTC,needs_id,"2-3cm, initially white interior (top) stains pinkish brown (bottom)","Cowlitz County, WA, USA",46.14588883,-122.2488197,Rhizopogon,Rhizopogon
+33162834,9/21/19,2019-09-21 23:14:45 UTC,2053741,2019-09-21 23:16:04 UTC,needs_id,,"Trout Lake, Seguin, ON, CA",45.2793696,-79.73960601,,Rhizopogon
+33167557,9/21/19,2019-09-21 18:16:41 UTC,798730,2019-09-22 00:58:02 UTC,needs_id,,"Chelan County, US-WA, US",47.49340002,-120.8386549,,Rhizopogon
+33208641,9/21/19,2019-09-21 19:31:00 UTC,300530,2019-09-24 17:30:37 UTC,needs_id,cf. R evadens,"Linn County, OR, USA",44.48913331,-121.8957748,Rhizopogon,Rhizopogon
+33311037,9/23/19,2019-09-24 00:24:05 UTC,2291865,2019-09-24 13:27:18 UTC,needs_id,,"Gifford Pinchot National Forest, Cougar, WA, US",46.25534014,-121.8039501,,Rhizopogon
+33381771,9/21/19,2019-09-21 22:24:18 UTC,2046304,2019-09-25 17:44:29 UTC,needs_id,,"Newberry National Volcanic Monument, La Pine, OR, US",43.724055,-121.2441117,,Rhizopogon
+33411751,9/24/19,2019-09-24 22:37:34 UTC,986243,2019-09-26 03:59:03 UTC,needs_id,,"Bend, OR, US",43.96721295,-121.340814,,Rhizopogon
+33412246,9/21/19,2019-09-21 18:35:00 UTC,1020372,2019-09-26 04:20:54 UTC,needs_id,,"Nahatlatch Provincial Park, Fraser Valley, BC, Canada",49.93525996,-121.9480233,Rhizopogon occidentalis,Rhizopogon occidentalis
+33481264,9/25/19,2019-09-25 14:46:00 UTC,2310175,2019-09-27 15:00:25 UTC,needs_id,,"Carlton County, MN, USA",46.61620175,-92.55930367,Rhizopogon,Rhizopogon
+33484102,9/27/19,2019-09-27 10:56:10 UTC,2310285,2019-09-27 15:56:45 UTC,needs_id,,"City View Dr, Wichita Falls, TX, US",33.94502288,-98.5545939,,Rhizopogon
+33504502,9/27/19,2019-09-27 18:48:17 UTC,2040929,2019-12-27 17:01:30 UTC,needs_id,,"Capital, CA-BC, CA",48.6832161,-123.431633,Rhizopogon,Rhizopogon
+33505603,9/19/19,2019-09-19 19:59:16 UTC,79395,2019-10-03 16:10:36 UTC,needs_id,Very purple on the hymenial surface and cross section of the stipe. ,"Davenport Branch Toms River, NJ, US",39.94905752,-74.26639259,Rhizopogon,Rhizopogon
+33576708,9/28/19,2019-09-29 01:23:34 UTC,242882,2019-09-29 06:15:23 UTC,needs_id,,"Birdseye Creek Rd, Gold Hill, OR, US",42.40042167,-123.1593555,,Rhizopogon
+33648540,9/30/19,2019-09-30 13:47:46 UTC,42833,2019-09-30 14:26:12 UTC,needs_id,,"Dedham, MA 02026, USA",42.23785975,-71.15876518,Rhizopogon,Rhizopogon
+33671968,9/30/19,2019-09-30 21:26:23 UTC,2308442,2020-06-02 21:52:42 UTC,needs_id,"Dense, found under wet soil, covered in mycelium(?), stinky after collecting (like old store bought portobellos), palm sized","Eastern Washington University, Cheney, WA, US",47.49124303,-117.5920324,Fungi Including Lichens,Rhizopogon ochraceorubens
+33678655,9/30/19,2019-10-01 00:35:04 UTC,889140,2019-10-01 00:35:54 UTC,needs_id,,"Central Point, OR, US",42.3836955,-122.9908155,,Rhizopogon
+33695950,10/1/19,2019-10-01 17:02:00 UTC,468274,2019-10-03 01:38:01 UTC,needs_id,"Growing under hemlocks, above ground. Texture tougher than puffball. Odor faint. Taste mild. Cut surface was white inside and remained unchanged in color.","9161 Kemp Rd, Woodruff, WI 54568, USA",45.8398017,-89.677569,Rhizopogon,Rhizopogon
+33724733,10/1/19,2019-10-01 22:07:39 UTC,454640,2019-10-01 22:10:22 UTC,needs_id,,"Nokesville, VA, US",38.72529936,-77.58074277,,Rhizopogon
+33760734,10/2/19,2019-10-02 17:29:52 UTC,865379,2019-10-07 03:35:20 UTC,needs_id,,"Sanders Rd, Klamath, CA, US",41.57697833,-124.0720445,Rhizopogon,Rhizopogon
+33856802,10/4/19,2019-10-04 18:12:37 UTC,1225492,2019-10-04 19:57:43 UTC,needs_id,,"New Albany High School, New Albany, OH, US",40.08734554,-82.8153527,,Rhizopogon
+33867067,10/3/19,2019-10-03 17:47:33 UTC,23429,2019-10-22 15:06:31 UTC,needs_id,"U370
+584, 587
+Under pipo abco and ceve 
+No odor
+Light brown bruising if at all","Deschutes County, US-OR, US",43.7436935,-121.7116775,Rhizopogon,Rhizopogon
+33867091,10/3/19,2019-10-03 17:56:11 UTC,23429,2019-10-05 01:37:28 UTC,needs_id,"U370
+585
+Under pipo abco 
+Reddish brown light bruising
+No odor
+","Deschutes County, US-OR, US",43.74356789,-121.7116898,,Rhizopogon
+33887345,9/22/19,2019-09-22 17:24:30 UTC,25690,2019-10-05 13:17:46 UTC,needs_id,,"Philomath, OR, US",44.44616265,-123.4646773,,Rhizopogon
+33911445,10/5/19,2019-10-05 20:14:29 UTC,2234539,2019-10-05 21:10:34 UTC,needs_id,,"Lowell Woods, Westwood, MA, US",42.22914027,-71.20136315,,Rhizopogon
+33963461,10/6/19,2019-10-06 15:25:32 UTC,1820997,2019-10-06 17:58:12 UTC,needs_id,,"Irving, NY, US",42.60326667,-79.11586667,,Rhizopogon
+34026950,10/5/19,2019-10-05 20:47:00 UTC,979112,2019-10-07 18:57:33 UTC,needs_id,,"Algonquin Provincial Park, Nipissing, Ontario, Canada",45.63783611,-78.37834167,Rhizopogon,Rhizopogon
+34027667,10/7/19,2019-10-07 17:39:15 UTC,2284381,2019-10-07 19:08:15 UTC,needs_id,,"Francis Marion National Forest, Jamestown, SC, US",33.206805,-79.60942833,,Rhizopogon
+34038494,10/1/19,2019-10-01 19:28:00 UTC,304496,2019-10-07 23:02:41 UTC,research,,"Siskiyou County, CA, USA",41.38694444,-121.9158333,Rhizopogon ochraceorubens,Rhizopogon ochraceorubens
+34096325,10/5/19,2019-10-05 19:03:00 UTC,2348081,2019-10-09 00:54:13 UTC,needs_id,Found with surface partially exposed. Heavy and dense.,"Oregon Coast Hwy, Gardiner, OR 97441, USA",43.813054,-124.154367,Rhizopogon,Rhizopogon
+34097447,10/8/19,2019-10-09 01:25:28 UTC,1291751,2019-12-17 19:00:47 UTC,needs_id,,"S Lapine Dr, La Pine, OR, US",43.64278631,-121.5015556,,Rhizopogon
+34139775,10/3/19,2019-10-03 19:31:00 UTC,3494,2019-10-09 23:28:06 UTC,needs_id,,"Lacey, WA, USA",47.03959722,-122.8157722,Rhizopogon,Rhizopogon
+34148190,10/9/19,2019-10-09 23:12:33 UTC,1752322,2019-10-10 21:54:51 UTC,needs_id,,"Lane County, US-OR, US",43.97721246,-124.1168617,Rhizopogon,Rhizopogon
+34284709,10/12/19,2019-10-12 21:41:00 UTC,266219,2019-10-13 03:12:14 UTC,needs_id,,"Lane County, US-OR, US",43.95346651,-123.3955749,Rhizopogon,Rhizopogon
+34384693,10/14/19,2019-10-14 17:31:40 UTC,849564,2019-10-16 12:43:55 UTC,needs_id,,"Jesse, Fayetteville, AR, US",36.09444717,-94.16591667,,Rhizopogon
+34542532,10/18/19,2019-10-18 16:42:30 UTC,527710,2019-10-18 16:43:50 UTC,needs_id,,"Wellfleet, MA 02667, USA",41.90274977,-69.97680238,Rhizopogon nigrescens,Rhizopogon nigrescens
+34557390,10/18/19,2019-10-18 22:10:20 UTC,2190916,2019-12-17 09:05:11 UTC,needs_id,"Collection Specimen 
+
+Pink staining after a few minutes ","Eureka, CA 95501, USA",40.7906656,-124.1710085,Rhizopogon,Rhizopogon
+34649000,10/17/19,2019-10-17 16:53:34 UTC,2209636,2019-10-20 23:24:40 UTC,needs_id,Observed this late morning during a class field trip. It was cloudy and mild out. ,"Austin Community College - Riverside Campus, Austin, TX, US",30.23640757,-97.70525518,Rhizopogon,Rhizopogon
+34686813,10/21/19,2019-10-21 13:24:00 UTC,2248162,2019-10-21 13:28:37 UTC,needs_id,,"Fort Matanzas National Monument, Saint Augustine, FL, US",29.71459256,-81.23333847,,Rhizopogon
+34696756,10/20/19,2019-10-20 17:24:00 UTC,364529,2019-10-21 17:06:09 UTC,needs_id,,"Dobbins, CA 95935, USA",39.37531662,-121.1556549,Rhizopogon,Rhizopogon
+34713315,10/20/19,,155080,2019-10-24 23:10:11 UTC,needs_id,"Mixed hardwood/pine woodland, growing in leaf litter.","Crowleys Ridge State Park, Greene county, Arkansas USA",36.043478,-90.660729,Rhizopogon,Rhizopogon
+34763091,10/20/19,2019-10-20 14:12:37 UTC,2325374,2019-12-01 08:56:52 UTC,research,Observation #40,"Bakie Rd, Valley, WA, US",48.177105,-117.7044217,Rhizopogon occidentalis,Rhizopogon occidentalis
+34772296,10/7/19,2019-10-07 20:44:59 UTC,241914,2020-02-01 08:49:43 UTC,needs_id,,"Kittitas County, US-WA, US",47.26023297,-120.711587,Rhizopogon,Rhizopogon
+34801435,10/23/19,2019-10-23 19:31:44 UTC,2151626,2020-01-21 20:56:55 UTC,needs_id,"Last one looked like a heart, what does this one look like? 😉","Spokane, WA 99224, USA",47.5725174,-117.4046631,Rhizopogon,Rhizopogon
+34857915,10/24/19,2019-10-24 21:00:05 UTC,2380029,2019-10-25 03:00:43 UTC,needs_id,,"Siuslaw National Forest, Philomath, OR, US",44.49675988,-123.5442529,,Rhizopogon
+34881365,10/24/19,2019-10-24 18:05:51 UTC,2291295,2019-10-25 18:49:05 UTC,needs_id,,"The Evergreen State College, Olympia, WA, US",47.07219346,-122.9745708,,Rhizopogon
+34883438,10/19/19,2019-10-19 19:19:27 UTC,405699,2019-12-16 00:21:38 UTC,needs_id,"Collection Specimen
+
+Growing out of sand in dune forest, pines nearby. 
+
+Looked just like a lil gold potato. Interior was a light yellow green. Peridium interior light pink. ","Pacific, Arcata, CA, USA",40.87304521,-124.1519656,Rhizopogon,Rhizopogon
+34998196,10/26/19,2019-10-26 16:28:46 UTC,1052423,2019-10-30 14:52:15 UTC,needs_id,,"Georgetown, CA 95634, USA",38.92168045,-120.7755051,Rhizopogon,Rhizopogon
+35163124,11/1/19,2019-11-01 13:49:00 UTC,2164080,2019-11-01 13:49:47 UTC,needs_id,,"US-33 E, The Plains, OH, US",39.37251723,-82.12718357,,Rhizopogon
+35166146,11/1/19,2019-11-01 15:21:54 UTC,2164531,2019-11-01 15:22:11 UTC,needs_id,,"The Plains, OH, US",39.37234298,-82.12704113,,Rhizopogon
+35222795,11/2/19,,155080,2019-11-24 12:13:35 UTC,needs_id,Mixed hardwood/pine woodland. Growing in lawn.,"United States, Arkansas, Poinsett County, Harrisburg, Lake Poinsett State Park",35.5320255,-90.6846177,Rhizopogon,Rhizopogon
+35247233,11/2/19,2019-11-02 22:31:00 UTC,1180604,2019-11-03 18:44:58 UTC,needs_id,Presence of rhizomorph indicates Rhizopogon.,"Northside, Ann Arbor, MI, USA",42.29577222,-83.72534167,Rhizopogon,Rhizopogon
+35259030,11/3/19,2019-11-03 16:51:44 UTC,1029820,2019-11-03 23:19:34 UTC,needs_id,,"Baker Mountain Dr, Wardensville, WV, US",39.1319695,-78.58452,,Rhizopogon
+35304042,,,1409202,2019-11-04 22:46:05 UTC,casual,All I know is that is is a puffball mushroom of some kind help would be needed ,"Atascocita Town Center, Houston, TX 77346, USA",29.99970137,-95.16213354,Rhizopogon,Rhizopogon
+35306900,9/30/19,2019-09-30 21:25:52 UTC,2321079,2019-11-04 23:58:40 UTC,needs_id,,"Eastern Washington University, Cheney, WA, US",47.49121167,-117.5919033,,Rhizopogon ochraceorubens
+35311715,11/4/19,2019-11-04 14:19:04 UTC,2387822,2019-11-05 02:38:14 UTC,needs_id,,"South Lake Tahoe, CA, US",38.92093333,-119.9636783,Rhizopogon,Rhizopogon
+35378163,10/27/19,2019-10-27 18:14:28 UTC,2213800,2019-11-06 18:24:22 UTC,needs_id,,"141 G Street, Arcata, CA 95521, United States",40.85602917,-124.0978532,Rhizopogon,Rhizopogon
+35392134,11/4/19,2019-11-05 00:14:00 UTC,2041339,2019-11-07 01:04:20 UTC,needs_id,"Small rounded fungi being dug up and eaten by midsized rodents, presumably squirrels. The photos show the holes after the fungus was removed. Fungus appears to have been a rounded oval about 4cm long, the inside of the hole it was removed from is whitish with brown veining or marbling, hence the suggested ID as rhizopogon. In a mid-aged forest of about 40 year old douglas fir. Not much to go on, I know, but if somebody has any idea more specific than ""truffle-like mushrooms"" please enlighten me. ","Strathcona, BC, Canada",50.15065565,-125.3152359,Rhizopogon,Rhizopogon
+35500884,11/9/19,2019-11-09 20:35:06 UTC,103396,2019-11-09 20:36:46 UTC,needs_id,,"Somerset, MA 02726, USA",41.7374552,-71.15821,Rhizopogon,Rhizopogon
+35503753,11/9/19,2019-11-09 19:30:59 UTC,364529,2019-11-09 21:58:25 UTC,needs_id,,"Nevada County, US-CA, US",39.24639478,-120.9266491,Rhizopogon,Rhizopogon
+35543825,11/10/19,2019-11-10 15:23:20 UTC,2200798,2019-11-10 21:24:44 UTC,needs_id,,"Nebraska Ave, Nashville, TN, US",36.14358488,-86.83867763,,Rhizopogon
+35572464,11/11/19,2019-11-11 15:58:03 UTC,2431712,2019-11-11 16:11:35 UTC,needs_id,,"Camp Wai Lani, Palm Harbor, FL, US",28.1111445,-82.77600833,,Rhizopogon
+35592849,11/11/19,2019-11-12 01:28:02 UTC,1348472,2019-11-13 01:30:21 UTC,needs_id,,"Little Lake Rd, Mendocino, CA, US",39.31313741,-123.769254,Rhizopogon,Rhizopogon
+35594325,11/10/19,2019-11-11 02:39:00 UTC,773740,2019-11-12 02:20:01 UTC,needs_id,,"Newport, OR, USA",44.61024643,-124.0638956,Rhizopogon,Rhizopogon
+35681353,11/14/19,2019-11-14 20:52:43 UTC,2177914,2019-11-14 21:01:39 UTC,needs_id,,"Musser Rd NE, Pleasantville, OH, US",39.82326167,-82.531425,,Rhizopogon
+35686158,11/14/19,2019-11-14 23:49:49 UTC,1279415,2019-11-16 17:23:57 UTC,needs_id,Grew in a cluster in my wood chipping a mulch ,"E Cherokee Way, Sierra Vista, AZ, US",31.47785472,-110.27642,Rhizopogon,Rhizopogon
+35688732,11/13/19,2019-11-14 00:09:33 UTC,170354,2019-11-15 06:47:16 UTC,needs_id,,"El Camino Hospital - Mountain View Campus, Mountain View, CA, US",37.36825964,-122.0780728,Rhizopogon,Rhizopogon
+35711447,11/15/19,2019-11-15 18:43:46 UTC,364529,2019-11-15 21:24:53 UTC,needs_id,Attached to ox eye daisy roots. Reddish blush. Yellow worm holes,"Dutch Flat, CA, USA",39.19229507,-120.8243484,Rhizopogon,Rhizopogon
+35715475,11/15/19,2019-11-15 15:22:56 UTC,445897,2020-04-27 01:16:15 UTC,needs_id,,"Resica Falls Ln, Houston, TX, US",29.78226478,-95.69979534,,Rhizopogon
+35787162,11/16/19,2019-11-16 15:56:03 UTC,1749726,2019-11-18 01:24:12 UTC,needs_id,,"Willow Valley Rd, Nevada City, CA, US",39.27119346,-120.9859074,Rhizopogon,Rhizopogon
+35826157,11/18/19,2019-11-18 13:59:43 UTC,1694866,2019-11-19 20:25:36 UTC,needs_id,"These were found in the damp dirt, under a pecan tree.  They smell like mushrooms.  ","W Arapaho Rd, Richardson, TX, US",32.96257095,-96.76827785,,Rhizopogon
+35852071,11/19/19,2019-11-19 15:47:22 UTC,2449088,2019-11-19 15:48:30 UTC,needs_id,,"W Highway 19, Loris, SC, US",34.05086719,-79.00494445,,Rhizopogon
+35860181,11/18/19,2019-11-18 15:26:39 UTC,1434444,2019-11-20 23:40:31 UTC,needs_id,Eaten by slugs.,"Five Oaks, Beaverton, OR, USA",45.52004242,-122.8457031,Rhizopogon,Rhizopogon
+35938510,11/9/19,,2383465,2019-11-22 03:58:37 UTC,needs_id,,"Douglas County, OR, USA",43.81306947,-124.1595812,Rhizopogon maculatus,Rhizopogon maculatus
+36035428,11/23/19,2019-11-23 14:43:24 UTC,712654,2020-06-10 02:44:26 UTC,needs_id,,"Chatsworth, NJ, US",39.825705,-74.50026333,Rhizopogon,Rhizopogon
+36068417,11/16/19,2019-11-16 17:05:00 UTC,772856,2019-11-25 19:17:18 UTC,needs_id,under pine,"Warrenton, OR, USA",46.17846944,-123.9768194,Rhizopogon occidentalis,Rhizopogon occidentalis
+36090273,8/30/19,2019-08-30 21:21:00 UTC,6971,2019-11-26 07:31:24 UTC,needs_id,,"Cochise County, US-AZ, US",31.91461833,-109.26883,Rhizopogon,Rhizopogon
+36119747,11/16/19,2019-11-17 01:00:00 UTC,861323,2019-11-27 10:51:08 UTC,needs_id,,"Mendocino County, US-CA, US",39.58313404,-123.5135761,Rhizopogon,Rhizopogon
+36206685,11/29/19,2019-11-29 22:28:52 UTC,2149924,2019-11-30 02:50:50 UTC,needs_id,This mushroom was found in a patch of grass in my backyard. This mushroom was just growing in the patch of grass. The height of this mushroom was about half the size of my pinkie. It has round top that is light brown. The top had a little bit of white mold growing on the side of it. This mushroom also had little darker brown spots on the top.,"24th Ave N, Saint Petersburg, FL, US",27.79359269,-82.65345146,,Rhizopogon
+36209698,11/29/19,2019-11-29 22:38:00 UTC,3494,2019-11-30 11:13:19 UTC,needs_id,,"Humboldt County, US-CA, US",40.70094722,-124.2032778,Rhizopogon,Rhizopogon
+36214737,11/29/19,2019-11-29 13:50:47 UTC,2284381,2019-11-30 11:42:48 UTC,needs_id,,"Francis Marion National Forest, Jamestown, SC, US",33.207345,-79.609725,,Rhizopogon
+36220318,8/15/19,2019-08-15 18:43:00 UTC,469820,2019-12-10 18:22:03 UTC,needs_id,,United States,31.59404905,-110.3424921,Rhizopogon,Rhizopogon
+36225066,8/16/19,2019-08-16 17:37:00 UTC,469820,2019-12-10 16:40:10 UTC,needs_id,,United States,31.4944178,-110.3060633,Rhizopogon,Rhizopogon
+36233163,8/19/19,2019-08-19 15:19:00 UTC,469820,2019-12-10 15:24:02 UTC,needs_id,,"Cochise County, AZ, USA",31.91648611,-109.2805417,Rhizopogon,Rhizopogon
+36258005,12/1/19,2019-12-01 16:59:08 UTC,2294687,2019-12-01 17:00:10 UTC,needs_id,,"High Rock, Gloucester, MA, US",42.65440924,-70.66582396,,Rhizopogon
+36264721,11/26/19,2019-11-26 20:04:43 UTC,2320812,2019-12-01 20:11:39 UTC,needs_id,,"Oregon State University Goss Stadium, Corvallis, OR, US",44.56201667,-123.2761,,Rhizopogon villosulus
+36322194,12/3/19,2019-12-03 09:43:00 UTC,2191004,2019-12-06 20:30:45 UTC,needs_id,,"University of California, Berkeley, Berkeley, CA, US",37.87184028,-122.2651813,Rhizopogon occidentalis,Rhizopogon occidentalis
+36327555,12/3/19,2019-12-03 20:56:20 UTC,2271866,2019-12-03 22:29:14 UTC,needs_id,"
+","N Carolina Ave, Batesburg-Leesville, SC, US",33.91448667,-81.53891667,,Rhizopogon
+36333787,12/3/19,2019-12-03 19:16:08 UTC,1152120,2019-12-05 18:34:58 UTC,needs_id,Found on Orcas Island under sand and evergreen needles.,"Olga, WA 98279, USA",48.61829454,-122.8285988,Rhizopogon,Rhizopogon
+36365890,12/4/19,2019-12-04 15:05:49 UTC,2055558,2019-12-05 02:10:07 UTC,needs_id,,"Zena Rd NW, Salem, OR, US",45.01836383,-123.1523362,,Rhizopogon
+36382698,12/5/19,2019-12-05 12:07:48 UTC,1266505,2019-12-05 18:08:44 UTC,casual,,"Heritage Hills Dr, Washington, MO, US",38.54211812,-91.00734587,,Rhizopogon
+36393670,11/26/19,2019-11-26 20:03:00 UTC,1604752,2019-12-06 00:46:38 UTC,needs_id,"fruiting body round about 6cm long, outer surface a cinnamon like color with greyand purple  tones and developing. spore mass minutely chambered with a olive-gray color. rhizomorphs present, columella absent.found growing under Douglas fir.","Benton County, US-OR, US",44.56203889,-123.2763583,Rhizopogon villosulus,Rhizopogon villosulus
+36441594,12/7/19,2019-12-07 12:50:00 UTC,2479284,2019-12-07 18:53:27 UTC,needs_id,,"Jonquil Ave NW, Fort Walton Beach, FL, US",30.43154826,-86.65159483,,Rhizopogon
+36456157,12/7/19,2019-12-07 18:54:01 UTC,732799,2019-12-08 04:55:09 UTC,needs_id,,"Jackson Demonstration State Forest, Fort Bragg, CA, US",39.35793333,-123.6393583,,Rhizopogon
+36521917,12/9/19,,394031,2019-12-10 04:37:27 UTC,needs_id,"<p>Many growing in wood chips near pine trees (3-needle, 10&quot; long) within a housing development.</p>","Tierrasanta, San Diego, California, USA",32.8249,-117.096,Rhizopogon,Rhizopogon
+36543089,12/10/19,2019-12-10 19:24:00 UTC,2470671,2019-12-14 18:29:02 UTC,needs_id,"large clumps of these buried in the ground, almost like potatoes when i was pulling them out to look.","Westwood, Los Angeles, CA, USA",34.07244723,-118.4435399,Rhizopogon,Rhizopogon occidentalis
+36570013,12/11/19,2019-12-11 19:16:00 UTC,444470,2019-12-14 18:26:43 UTC,needs_id,,"Westwood, Los Angeles, CA, USA",34.07518889,-118.4503556,Rhizopogon,Rhizopogon
+36621665,12/13/19,2019-12-13 10:45:21 UTC,1598205,2020-01-14 05:11:30 UTC,needs_id,,"University of California, Los Angeles, Los Angeles, CA, US",34.06542468,-118.4404611,,Rhizopogon
+36655396,12/14/19,2019-12-14 21:20:00 UTC,444470,2019-12-14 23:29:17 UTC,needs_id,,"Los Angeles, California, United States",34.065104,-118.441277,Rhizopogon,Rhizopogon
+36659405,12/14/19,2019-12-14 17:59:25 UTC,364529,2019-12-15 17:36:42 UTC,needs_id,,"Camptonville, CA 95922, USA",39.44256197,-121.0793359,Rhizopogon,Rhizopogon
+36687436,12/15/19,2019-12-15 20:25:50 UTC,24754,2019-12-16 00:02:21 UTC,needs_id,,"Santa Cruz, CA 95060, USA",37.0554657,-122.1433411,Rhizopogon,Rhizopogon
+36708891,12/15/19,2019-12-15 23:15:01 UTC,25945,2019-12-16 19:19:32 UTC,needs_id,,"Nevada County, US-CA, US",39.3317076,-121.093298,Rhizopogon ellenae,Rhizopogon ellenae
+36812544,12/20/19,2019-12-20 16:33:08 UTC,990805,2019-12-21 01:00:33 UTC,needs_id,,"Shake Ridge Rd, Volcano, CA, US",38.50597,-120.5128333,,Rhizopogon
+36898654,12/22/19,2019-12-22 14:32:30 UTC,505171,2019-12-24 00:17:33 UTC,needs_id,,33150 Iversen Road,38.85246406,-123.583577,Rhizopogon,Rhizopogon
+36919398,12/21/19,2019-12-21 17:28:26 UTC,942187,2019-12-28 19:00:36 UTC,needs_id,"Unsure of species, growing in irrigated soil with native and non-native plants ","N Saint Joseph Way, Florence, AZ, US",32.92151333,-111.26078,,Rhizopogon
+37004219,12/26/19,2019-12-26 17:17:00 UTC,3494,2020-02-06 18:41:38 UTC,needs_id,,"Contra Costa County, CA, USA",37.90803611,-121.9227528,Rhizopogon,Rhizopogon
+37005350,12/26/19,2019-12-26 18:23:00 UTC,3494,2019-12-30 01:47:50 UTC,needs_id,Arctostaphylos and Heteromeles arbutifolia,"Mount Diablo State Park, Contra Costa, California, United States",37.90280833,-121.9205778,Rhizopogon,Rhizopogon
+37006372,12/26/19,2019-12-26 19:04:00 UTC,3494,2020-06-15 04:00:32 UTC,needs_id,closest plants are all Arctostaphylos,"Mount Diablo State Park, Contra Costa, California, United States",37.90003333,-121.9182139,Rhizopogon,Rhizopogon
+37006373,12/26/19,2019-12-26 19:08:00 UTC,3494,2020-06-15 04:00:27 UTC,needs_id,closest plants are all Arctostaphylos,"Mount Diablo State Park, Contra Costa, California, United States",37.90001944,-121.9180139,Rhizopogon,Rhizopogon
+37007985,12/26/19,2019-12-26 23:28:00 UTC,134993,2020-06-03 00:14:07 UTC,needs_id,"Douglas Squirrels are reportedly large consumers of truffles, but this is the first time I think I may have caught one eating one.
+
+See second image for 4 close-up shots.  Perhaps an Oregon White Winter / Spring (Tuber sp.)?
+
+Source: DSC03591x-3616x","Chandler Park Area, Cougar Mountain, Bellevue, WA, USA",47.554055,-122.1174145,Rhizopogon,Rhizopogon
+37011502,12/27/19,2019-12-27 21:32:39 UTC,2198086,2020-02-03 23:14:25 UTC,needs_id,,"PINE MTN VALY, GA 31823, USA",32.8383088,-84.81085514,Rhizopogon,Rhizopogon
+37067241,12/29/19,2019-12-29 16:12:16 UTC,1056077,2019-12-29 16:32:54 UTC,needs_id,Under pine and magnolias in St. Augustine grass. Turned up while raking. ,"Horry County, US-SC, US",33.58725696,-79.01787539,Rhizopogon,Rhizopogon
+37113216,12/30/19,2019-12-30 20:24:33 UTC,2186784,2019-12-30 23:47:47 UTC,needs_id,Found in front of persimmon but lots of other trees around,St. Marks River Preserve State Park,30.37159896,-84.08705547,Rhizopogon,Rhizopogon
+37203748,12/30/19,2019-12-30 23:38:00 UTC,3494,2020-06-14 23:49:00 UTC,research,"red staining at edge where cut. found in almost same location as last year.
+
+collected ","Salt Point State Park, Sonoma, California, United States",38.57929167,-123.3067028,Rhizopogon occidentalis,Rhizopogon occidentalis
+37203802,12/30/19,2019-12-30 21:54:00 UTC,3494,2020-01-05 21:02:29 UTC,needs_id,collected,"Salt Point State Park, Sonoma, California, United States",38.57465833,-123.3159167,Rhizopogon,Rhizopogon
+37203817,12/30/19,2019-12-30 22:08:00 UTC,3494,2020-01-02 21:14:54 UTC,needs_id,smell = acetone,"Sonoma County, CA, USA",38.57515833,-123.3161861,Rhizopogon,Rhizopogon
+37206604,12/31/19,2019-12-31 21:34:00 UTC,3494,2020-01-03 00:01:36 UTC,needs_id,,"Mendocino County, CA, USA",39.40834444,-123.7689667,Rhizopogon,Rhizopogon
+37209358,1/1/20,2020-01-01 23:20:00 UTC,3494,2020-01-03 00:02:18 UTC,needs_id,,"Mendocino County, CA, USA",39.40781111,-123.7611306,Rhizopogon,Rhizopogon
+37289684,12/18/19,2019-12-19 09:07:00 UTC,1439688,2020-06-03 00:15:04 UTC,needs_id,"golf ball size - left one cut in half
+found by Becky Riley
+under Douglas-fir ","Rasor Park - Eugene, OR, USA",44.07389424,-123.1178442,Rhizopogon,Rhizopogon
+37315792,1/5/20,2020-01-05 09:51:44 UTC,2491546,2020-01-05 23:00:41 UTC,needs_id,,"W Hill Pl, Brisbane, CA, US",37.69270333,-122.4254217,,Rhizopogon
+37347929,1/5/20,2020-01-05 13:36:43 UTC,540745,2020-01-06 20:47:22 UTC,needs_id,,"Winter Garden, FL 34787, USA",28.55383873,-81.64016724,Rhizopogon,Rhizopogon
+37358287,1/3/20,2020-01-03 23:11:57 UTC,861323,2020-01-07 02:45:32 UTC,needs_id,,"Mendocino County, US-CA, US",39.54298728,-123.6974126,Rhizopogon,Rhizopogon
+37381541,1/2/20,2020-01-02 18:34:00 UTC,543456,2020-06-03 00:15:15 UTC,needs_id,"Found under Cedrus, with no other potential mycorrhizal hosts.  Younger specimens (photos 3-6) were collected from same spot on 2/16/20.
+Spores 7.7 X 3.3 (ave of 20) 6.6-8.5 X 3.1-3.6 range.  Peridium with red stains.  Black with KOH on peridium; Meltzers no reaction on peridium or immature gleba. ","Albany, CA, USA",37.89191712,-122.3020844,Rhizopogon ellenae,Rhizopogon ellenae
+37385354,1/7/20,2020-01-07 16:48:00 UTC,1419641,2020-01-08 00:57:43 UTC,needs_id,,"Bol Park, Palo Alto, CA, US",37.41094981,-122.1395546,,Rhizopogon
+37388770,1/7/20,2020-01-08 01:04:00 UTC,1307080,2020-01-08 07:20:55 UTC,needs_id,,"California, US",35.07044758,-120.4942082,Rhizopogon,Rhizopogon
+37392706,1/7/20,2020-01-07 20:35:11 UTC,851163,2020-01-08 07:28:01 UTC,needs_id,,"Cambria, CA, USA",35.55253983,-121.0896759,Rhizopogon,Rhizopogon
+37403963,1/4/20,2020-01-05 00:26:30 UTC,861323,2020-01-08 18:31:33 UTC,needs_id,,"Mendocino County, US-CA, US",39.23827215,-123.1313406,Rhizopogon,Rhizopogon
+37471445,1/6/20,2020-01-06 12:34:00 UTC,390839,2020-01-11 01:35:31 UTC,needs_id,,"Del Monte Forest, CA, USA",36.59143932,-121.9300245,Rhizopogon occidentalis,Rhizopogon occidentalis
+37492299,1/9/20,,491988,2020-01-11 18:32:51 UTC,needs_id,"Growing on open area in sandy soil. Nearest trees; Pinus taeda (Loblolly pine).
+Third pic shows peridium staining red in KOH (10%).","Winder, GA 30680, USA",33.973783,-83.731267,Rhizopogon,Rhizopogon
+37526834,,,2370628,2020-01-12 16:43:36 UTC,casual,,South Miami,25.70506973,-80.29076178,Rhizopogon,Rhizopogon
+37533714,1/12/20,2020-01-12 17:47:35 UTC,8778,2020-01-13 05:01:02 UTC,needs_id,,"Alum Rock Park, Santa Clara County, US-CA, US",37.39756023,-121.8002261,Rhizopogon,Rhizopogon
+37557756,1/13/20,2020-01-13 14:51:52 UTC,2517119,2020-01-13 15:15:39 UTC,needs_id,,"Sawgrass Lake Park, Saint Petersburg, FL, US",27.84459748,-82.66671464,,Rhizopogon
+37636628,7/6/14,,382370,2020-01-16 02:18:41 UTC,needs_id,"<p>Found beneath Picea Sitchensis(Sitka spruce) in our backyard.  We&#8217;ve been seeing these scattered among roots and grass(specimen in these images shows growth around an actual blade of grass).</p>
+<p>Temp:  upper 90&#8217;s.</p>
+<p>Odor:  Spicy, slightly fruity( red wine slightly).</p>
+<p>UPDATED HOST TREE7/11/14:</p>
+<p>After thorough investigation- found that this host tree is not P. sitchensis but in fact P. pungens or Blue Spruce.</p>","Lila Ave., Yakima, Yakima Co., Washington, USA",46.58115,-120.5445,Rhizopogon,Rhizopogon
+37637260,8/23/14,,382370,2020-01-16 22:49:22 UTC,research,"<p>Pine drop is a mycoheterotrophic plant associated with Rhizopogon.</p>
+<p>Ponderosa pine, Douglas fir and Larch in canopy.</p>
+<p>Temp: mid 70&#8217;s.</p>
+<p>Elevation: 2700ft.</p>","Rimrock Lake, Gifford Pinchot National Forest, Yakima Co., Washington, USA",46.6396,-121.186,woodland pinedrops,Pterospora andromedea
+37637551,9/10/14,,382370,2020-01-16 22:50:05 UTC,research,"<p>Single, young Pine drop plant associated and or gaining nutrients from Rhizopogon species.</p>
+<p>Trees in canopy:  Douglas fir, Western hemlock, yellow cedar and red alder.</p>
+<p>Temp: low 70&#8217;s.</p>
+<p>Elevation: 2700ft.</p>","Rimrock Lake, Gifford Pinchot National Forest, Yakima Co., Washington, USA",46.6396,-121.186,woodland pinedrops,Pterospora andromedea
+37637573,9/10/14,,382370,2020-01-16 22:52:33 UTC,research,"<p>Young and mature pine drops found beneath Douglas fir and lodge pole pine.</p>
+<p>Elevation: 2700ft.</p>
+<p>Temp: low 70&#8217;s.</p>
+<p>Associated with Rhizopogon species.</p>","Rimrock Lake, Gifford Pinchot National Forest, Yakima Co., Washington, USA",46.6396,-121.186,woodland pinedrops,Pterospora andromedea
+37642121,5/4/15,,382370,2020-01-16 05:58:17 UTC,needs_id,"<p>Fresh cluster came up today in the &#8220;mushroom pile&#8221; area of our yard.  We have a corner of the yard where our young persimmon sapling is growing that has become the mushroom spot for all old or inedible fruiting bodies for the last few seasons(corner fence w/very little sun exposure).  This week the species happened to be small mica caps against the fence.  I have found Geastrum spp., Rhizopogon app., Marasmius oreades, Lycoperdon, Scleroderma and multiple species of Agaricus in our yard so far in the last two seasons.  Not positive, but pretty convinced our throwing of these wild species in the urban setting have brought them up over time at this current location.</p>
+<p>There are three distinctly different mica caps that fruit in Yakima, WA throughout the year from my personal observation;  A very small version that looks identical to the West side of WA fruiters(thin long stem, shiny., a floccose version that is much stouter and shorter(caps are almost not visible due to paper thin floccose skin surrounding fruitbodies, and finally, this species that exhibits the mica dust on cap AND the flocking on margins and young fruit bodies.</p>
+<p>I&#8217;m looking forward to seeing what other species of fungi will show up and out compete local fungal residents in the yard &#8211; hopefully, most of them will come up throughout the remainder of this Spring/Summer season in our ever evolving &#8220;mushroom spot.&#8221;</p>
+<p>Elevation: 1500ft.</p>
+<p>Temp: 78, sunny.  Low 80&#8217;s over the last three days.</p>
+<p>UPDATED 5/8/15:  Images of fully mature specimens four days after beginning of visible flush.  The caps still exhibit the tenuous flocculant(with striation) behavior as with C.flocculosus, but also have mica looking dust on young specimens.  I am leaning more toward C.flocculosus after updated growth5/8. Very large at maturity- fully expanded caps approx. 4cm wide.</p>
+<p>Updated 5/29/15:  Notes below each additional image.</p>
+<p>UPDATED 6/12/15: New satellite of primordial young buttons coming up in caespitose lumps near the ever growing persimmon.  This strains mycelium has gone down the fence in three different directions for over a month now.  Whenever I water, they pop up to spread more spores.</p>","Lila Ave., Yakima, Yakima Co., Washington, USA",46.58115,-120.5445,Coprinellus sect. Micacei,Micacei
+37643046,8/5/15,,382370,2020-01-16 06:58:49 UTC,needs_id,"<p>Found beneath young saplings of Douglas fir, Western hemlock and Western red cedar(all within five feet of Hypogeus sample).</p>
+<p>Elevation: 5000ft.</p>
+<p>Temp: low 70&#8217;s.</p>
+<p>Note: Was going to try and slice this down the middle to show inner context(as I usually do with truffles and false truffles), but the damn thing was rock solid from drought.  I have kept the specimen, vouchered, bagged and will study further.</p>
+<p>Bone white, slight pinkish brown discoloration on lower portions of gleba.  Small evident pigtail stem in center of sporophore-perhaps rhizopogon?  Will delve further once I can crack the thing open.</p>","Cascades along Highway 12, Lewis Co. and Yakima Co., Washington, USA",46.6276,-121.6315,Hysterangium separabile,Hysterangium separabile
+37688361,1/17/20,2020-01-17 20:19:18 UTC,1552950,2020-01-18 20:43:05 UTC,needs_id,,"Ascot Dr, Moraga, CA, US",37.85818306,-122.1288271,Rhizopogon,Rhizopogon
+37722232,1/18/20,2020-01-18 22:08:32 UTC,1552950,2020-01-19 00:23:17 UTC,needs_id,10cm across found under Monterey pine,"Tice Valley Blvd, Walnut Creek, CA, US",37.87949599,-122.0738682,,Rhizopogon
+37727109,1/18/20,2020-01-18 22:10:22 UTC,1348472,2020-01-19 00:24:16 UTC,needs_id,,"Jacks Peak Rd, Carmel, CA, US",36.56905833,-121.8595417,,Rhizopogon
+37728442,1/18/20,2020-01-18 16:20:44 UTC,712654,2020-06-10 02:35:09 UTC,research,"Under pine, nearby specimens were up to 7cm long","Lundy Way, Pacifica, CA, US",37.62418667,-122.4855583,Rhizopogon occidentalis,Rhizopogon occidentalis
+37733527,1/18/20,2020-01-18 20:13:53 UTC,1347174,2020-01-19 04:14:58 UTC,needs_id,,"13th St, Oakland, CA, US",37.81064167,-122.2936467,,Rhizopogon
+37735219,1/17/20,2020-01-17 19:46:00 UTC,462,2020-01-19 05:17:02 UTC,needs_id,,"Point Richmond, Richmond, CA, USA",37.92848889,-122.3872694,Rhizopogon,Rhizopogon
+37754608,1/17/20,2020-01-17 17:55:00 UTC,56162,2020-01-19 20:09:17 UTC,needs_id,Bon Secour NWR - Jeff Friend trail - dune habitat,"Bon Secour National Wildlife Refuge, Baldwin, Alabama, United States",30.24218889,-87.79013889,Rhizopogon,Rhizopogon
+37763455,1/18/20,2020-01-18 22:17:00 UTC,301665,2020-02-20 22:32:18 UTC,needs_id,,"Marin County, CA, USA",37.95001667,-122.5998611,Rhizopogon,Rhizopogon
+37769588,1/19/20,2020-01-19 12:56:00 UTC,2165875,2020-01-20 03:40:15 UTC,needs_id,,"Mt. Tabor, Portland, OR, USA",45.513705,-122.5962867,Rhizopogon,Rhizopogon
+37792869,1/17/20,2020-01-17 23:32:00 UTC,948025,2020-01-20 21:19:42 UTC,needs_id,,"Serramonte, Daly City, CA, USA",37.65386997,-122.452769,Rhizopogon,Rhizopogon
+37828356,1/20/20,2020-01-20 23:10:00 UTC,1514232,2020-01-21 23:50:56 UTC,needs_id,,"Wunderlich County Park, San Mateo, California, United States",37.40992778,-122.268525,Rhizopogon,Rhizopogon
+37829763,1/18/20,2020-01-18 22:17:25 UTC,2540934,2020-06-03 00:18:04 UTC,needs_id,Growing in duff and soil proximal to pine and Manzanita ,"Santa Cruz, CA 95060, USA",37.05240156,-122.1312081,Rhizopogon,Rhizopogon
+37862881,1/21/20,2020-01-21 19:46:09 UTC,776526,2020-02-13 02:56:14 UTC,needs_id,"Growing under cottonwoods in sandy soil. There are also Pinus jefferyi nearby. I found this truffle on the sandy soil  surface, so it may have been moved from it’s original location by a fellow mycophile (ie maybe a ground squirrel). I was thinking that maybe this could also be R. occidentalis. Peridium mostly dark red; gleba pale cream colored; smells really good!","San Bernardino National Forest, Mountain Center, CA, US",33.60233,-116.5975283,,Rhizopogon fuscorubens
+37864006,1/19/20,2020-01-19 16:14:55 UTC,2186784,2020-01-23 03:25:57 UTC,needs_id,,Elinor Klapp-Phipps Park,30.5313442,-84.28946972,Rhizopogon,Rhizopogon
+37925327,12/30/19,2019-12-31 01:04:00 UTC,404559,2020-06-03 00:18:57 UTC,needs_id,,"Cambria, CA, USA",35.55172222,-121.0944139,Rhizopogon,Rhizopogon
+37938276,1/24/20,2020-01-24 21:56:00 UTC,9572,2020-01-25 05:01:06 UTC,needs_id,,"EBMUD, Contra Costa, California, United States",37.90110833,-122.2119306,Rhizopogon,Rhizopogon
+37970448,1/25/20,2020-01-26 00:33:07 UTC,398213,2020-01-26 01:46:20 UTC,needs_id,On landscaped area with mulch and ornamental shrubs. ,"Oak Crest Dr, San Rafael, CA, US",38.00456112,-122.52008,,Rhizopogon
+38019506,1/6/20,2020-01-06 16:55:00 UTC,67003,2020-01-27 06:41:19 UTC,needs_id,,"H, 70987 Crucecita, Oax., México",15.76600361,-96.13632965,Rhizopogon,Rhizopogon
+38040078,1/27/20,2020-01-27 20:39:44 UTC,2369100,2020-06-03 00:20:15 UTC,needs_id,,"Cuesta Ridge Botanical Area, Santa Margarita, CA, US",35.37693167,-120.6912903,Rhizopogon,Rhizopogon
+38195010,2/1/20,2020-02-01 20:00:33 UTC,171240,2020-03-15 08:29:31 UTC,needs_id,"buried 
+1/4"" across
+small
+porous on inside
+","Point Reyes National Seashore, Marin County, US-CA, US",38.03054973,-122.8104679,Rhizopogon,Rhizopogon
+38320335,7/27/19,2019-07-27 22:26:34 UTC,2365851,2020-02-05 06:20:38 UTC,needs_id,,"Blountville, TN 37617, USA",36.53326356,-82.32680585,Rhizopogon,Rhizopogon
+38692775,2/15/20,2020-02-15 17:22:43 UTC,1973632,2020-02-16 01:45:01 UTC,needs_id,,"Bowen Island, Bowen Island, BC, CA",49.36668333,-123.4283533,,Rhizopogon
+38759741,2/17/20,2020-02-17 09:54:01 UTC,1815428,2020-02-17 17:55:16 UTC,needs_id,,"Vancouver Island, Colwood, BC, CA",48.45062871,-123.4584903,,Rhizopogon
+38950321,11/3/19,,477643,2020-06-03 00:27:53 UTC,needs_id,,"Belleplain State Forest, Cape May and Cumberland Cos., New Jersey, USA",39.2548,-74.84745,Rhizopogon,Rhizopogon
+38950325,11/3/19,,477643,2020-02-21 05:59:24 UTC,needs_id,,"Belleplain State Forest, Cape May and Cumberland Cos., New Jersey, USA",39.2548,-74.84745,Rhizopogon rubescens group,Rhizopogon rubescens
+39030207,2/21/20,2020-02-22 01:59:26 UTC,364529,2020-06-03 00:28:26 UTC,needs_id,Under madrone. Oaks nearby ,"Grass Valley, CA 95945, USA",39.22550933,-120.9617421,Rhizopogon,Rhizopogon
+39032247,2/21/20,2020-02-21 14:58:42 UTC,1458204,2020-06-03 00:28:28 UTC,needs_id,,"Henry Cowell Redwoods State Park, Scotts Valley, CA, US",37.0167466,-122.0381036,Rhizopogon,Rhizopogon
+39045617,2/22/20,2020-02-22 14:52:19 UTC,956169,2020-02-22 14:54:08 UTC,needs_id,,"Charleston, SC 29403, USA",32.8082428,-79.9596283,Rhizopogon,Rhizopogon
+39189536,2/24/20,2020-02-24 11:32:08 UTC,2604231,2020-02-25 02:54:07 UTC,needs_id,,"Port Angeles, WA, US",48.08225114,-123.7319895,,Rhizopogon
+39987582,2/10/20,2020-02-10 19:29:00 UTC,100576,2020-03-14 20:44:20 UTC,needs_id,,"Canyon Lakes At Stonegate, TX 77095, USA",29.9114742,-95.66089876,Rhizopogon,Rhizopogon
+40089328,3/15/20,2020-03-15 01:32:00 UTC,2539099,2020-03-18 21:49:50 UTC,needs_id,,"San Jose, CA, USA",37.3382082,-121.8863286,Rhizopogon,Rhizopogon
+40675743,3/24/20,2020-03-24 21:23:00 UTC,1427469,2020-03-25 02:51:12 UTC,needs_id,,"Oakhurst, CA 93644, USA",37.394576,-119.632185,Rhizopogon,Rhizopogon
+40706874,3/22/20,2020-03-22 21:31:00 UTC,425713,2020-03-25 19:03:22 UTC,needs_id,,"Stanislaus County, CA, USA",37.43135,-121.334656,Rhizopogon,Rhizopogon
+40990539,3/29/20,2020-03-29 18:29:35 UTC,776526,2020-04-03 00:57:58 UTC,needs_id,,"San Bernardino National Forest, Mountain Center, CA, US",33.602845,-116.5973133,Rhizopogon fuscorubens,Rhizopogon fuscorubens
+41017133,3/29/20,2020-03-30 01:26:54 UTC,1427469,2020-03-30 04:07:33 UTC,needs_id,,"Coarsegold, CA 93614, USA",37.11721897,-119.746861,Rhizopogon,Rhizopogon
+41091818,3/30/20,2020-03-30 18:41:00 UTC,465225,2020-03-31 05:26:30 UTC,needs_id,,del puerto canyon,37.408073,-121.413568,Rhizopogon,Rhizopogon
+41118451,3/31/20,,2669959,2020-03-31 18:58:19 UTC,needs_id,Fungi,"Wayne County, NC, USA",35.49415278,-78.01738889,,Rhizopogon
+41282651,6/2/15,2015-06-02 20:17:00 UTC,1426183,2020-04-14 04:44:29 UTC,research,,"Jackson County, US-OR, US",42.60973947,-122.9987106,Rhizopogon salebrosus,Rhizopogon salebrosus
+41282654,6/2/15,2015-06-02 20:48:00 UTC,1426183,2020-04-14 04:41:11 UTC,research,,"Jackson County, US-OR, US",42.68441352,-122.8547631,Rhizopogon truncatus,Rhizopogon truncatus
+41631415,4/7/20,2020-04-07 19:37:17 UTC,2588818,2020-04-08 02:52:09 UTC,needs_id,,"W Blackwater Rd, Windsor, VA, US",36.81601667,-76.79482167,,Rhizopogon
+41858777,3/19/20,2020-03-20 00:12:41 UTC,1405459,2020-04-11 05:10:02 UTC,needs_id,Under planted pines (possibly canary pines) at UC Berkeley ,"Sather Tower, Berkeley, CA, US",37.8719,-122.2577133,Rhizopogon,Rhizopogon
+41865103,4/10/20,2020-04-10 22:13:00 UTC,223005,2020-04-10 23:14:34 UTC,needs_id,,"Los Angeles County, US-CA, US",34.21159034,-118.6609403,Rhizopogon,Rhizopogon
+41883654,4/10/20,2020-04-11 00:53:00 UTC,1653276,2020-06-12 05:48:11 UTC,needs_id,,"Rancho San Diego, CA, USA",32.77437018,-116.9157988,Rhizopogon,Rhizopogon
+42288597,4/12/20,2020-04-12 21:19:11 UTC,2656041,2020-04-16 05:22:01 UTC,needs_id,,"E Empire St, Grass Valley, CA, US",39.20732833,-121.0467083,Rhizopogon,Rhizopogon
+42330954,4/16/20,2020-04-16 18:44:06 UTC,2722636,2020-04-16 18:44:38 UTC,needs_id,,"Mill Wood Dr, Colleyville, TX, US",32.87655559,-97.17116116,,Rhizopogon
+42645798,4/5/20,2020-04-05 21:36:07 UTC,385895,2020-04-21 02:38:10 UTC,needs_id,"Spores (5) 6.25-7.5 x 1.875-2.5 within the range for several Rhizopogon that associate with Doug fir. There is D. fir in the area, also some oak and lots of cottonwood and ash. First 2 micro photos are from interior in water, last two are peridium in KOH.","Kelley Point Park, Portland, OR, US",45.64148667,-122.7651533,,Rhizopogon
+42869960,4/22/20,2020-04-22 18:10:02 UTC,1974412,2020-06-03 00:32:50 UTC,needs_id,,"5950 Buckwheat Rd, Milford, OH, US",39.19474856,-84.22007997,,Rhizopogon
+42958708,4/22/20,2020-04-22 18:10:02 UTC,1974412,2020-04-23 15:24:46 UTC,needs_id,,"5950 Buckwheat Rd, Milford, OH, US",39.19477121,-84.21976533,,Rhizopogon
+42994916,4/23/20,,2821173,2020-04-23 21:27:48 UTC,needs_id,,"Chagrin Falls, OH 44022, USA",41.4298516,-81.3910999,Rhizopogon,Rhizopogon
+43090174,4/5/20,2020-04-05 13:44:27 UTC,1506534,2020-04-24 15:12:48 UTC,needs_id,,"Day Rd, Warsaw, MO, US",38.15395997,-93.29772418,,Rhizopogon
+43216373,4/24/20,2020-04-25 00:12:22 UTC,2830724,2020-04-25 00:15:18 UTC,needs_id,,"Peachtree City, GA, US",33.41903273,-84.61508162,Fungus,Rhizopogon luteolus
+43405110,4/25/20,2020-04-25 18:47:57 UTC,2564075,2020-05-02 21:30:03 UTC,needs_id,,"Fir Dr, BC, CA",49.45971401,-117.5136466,,Rhizopogon
+43409302,4/25/20,2020-04-25 18:54:16 UTC,2844749,2020-04-27 20:17:00 UTC,casual,,"Whistling Springs Cres, Oakville, ON, CA",43.44438757,-79.76208733,,Rhizopogon
+44287144,4/4/20,2020-04-04 20:42:30 UTC,2710126,2020-04-29 19:27:42 UTC,needs_id,,"Sourwood Ct, Swansea, SC, US",33.7258615,-80.94051972,,Rhizopogon
+44765718,5/3/20,2020-05-03 17:12:37 UTC,2897676,2020-05-03 20:06:37 UTC,needs_id,,"Prospect Park Lake, New York, NY, US",40.65819051,-73.96627344,,Rhizopogon
+45287467,5/8/20,2020-05-08 18:02:23 UTC,1557651,2020-05-08 18:04:22 UTC,needs_id,,"Baum Ln, Tallahassee, FL, US",30.518906,-84.08097692,,Rhizopogon
+45644199,5/10/20,2020-05-10 17:44:34 UTC,1458146,2020-05-18 14:06:52 UTC,needs_id,,"Nipomo, CA 93444, USA",35.02482497,-120.475712,Rhizopogon,Rhizopogon
+46006179,5/15/20,2020-05-15 12:43:29 UTC,614270,2020-05-15 20:03:09 UTC,needs_id,,"Stone State Park, Sioux City, IA, US",42.54798,-96.47578333,,Rhizopogon
+46220022,5/17/20,2020-05-17 12:28:58 UTC,1705419,2020-05-17 12:36:11 UTC,needs_id,,"Kingston Line, Lanark Highlands, ON, CA",44.89391333,-76.60362167,,Rhizopogon
+46528756,5/19/20,2020-05-19 16:04:14 UTC,2900621,2020-05-19 21:06:24 UTC,needs_id,,"Festus, MO, USA",38.2307574,-90.4148531,Rhizopogon,Rhizopogon
+46651505,5/20/20,2020-05-20 21:33:25 UTC,1010967,2020-05-20 21:37:53 UTC,needs_id,Growing on a root of a Ponderosa. ,"Pine Tree Ln, Glenbrook, NV, US",39.09837934,-119.9350642,,Rhizopogon
+47374071,11/17/19,2019-11-17 09:35:12 UTC,3064580,2020-05-26 06:37:24 UTC,needs_id,,"Ucluelet, BC, Canada",48.93694305,-125.5575027,Rhizopogon,Rhizopogon
+47410052,5/9/20,2020-05-09 19:28:35 UTC,2889702,2020-05-26 16:09:02 UTC,needs_id,,"Shasta-Trinity National Forest, Lakehead, CA, US",40.9978,-122.536705,,Rhizopogon
+47584951,5/27/20,2020-05-28 02:42:47 UTC,1577575,2020-05-28 16:45:04 UTC,needs_id,I really have no idea what this is but it smells bad and that’s really it.    Update I cut it and I think it is a false truffle so I’m putting it back in the wild,"Beymer Rd, Eugene, OR, US",43.96944915,-123.0666783,,Rhizopogon
+48195105,6/1/20,2020-06-01 16:04:43 UTC,122718,2020-06-02 02:29:09 UTC,needs_id,,"Spring Green, WI, US",43.20313769,-90.06132054,,Rhizopogon
+48678468,6/4/20,2020-06-04 20:44:01 UTC,2465722,2020-06-08 18:17:55 UTC,needs_id,,"Ross Lake National Recreation Area, Deming, WA, US",48.65797921,-121.065036,Rhizopogon,Rhizopogon
+49369634,6/11/20,2020-06-11 22:45:00 UTC,1178728,2020-06-12 21:03:38 UTC,needs_id,With lodgepole pine and hemlock,"Cowlitz County, WA, USA",46.15717112,-122.2745865,Rhizopogon,Rhizopogon
+49656899,6/13/20,2020-06-13 20:33:00 UTC,1772002,2020-06-14 23:32:02 UTC,needs_id,,"Ventura County, CA, USA",34.81260278,-119.1681639,Rhizopogon,Rhizopogon
+49780109,6/15/20,2020-06-15 22:32:48 UTC,1259196,2020-06-15 23:25:13 UTC,needs_id,We first watched a grey squirrel dig up a 4 cm truffle and climb the nearby Doug fir and eat it down to half the size and then leave. We hoped  it had dropped it but we couldn't find it so raked the area about 6 feet from the base of Doug fir where the squirrel had found the first one and we found 4 more ranging from 1 to 5 cm.   Outer surface light to medium brown with a few brown rhizomorphs. Peridium is ochre brown ,"Chaucer Way, Eugene, OR, US",44.03253563,-123.1414781,,Rhizopogon
+49798952,6/15/20,2020-06-15 18:00:37 UTC,2097941,2020-06-16 17:20:20 UTC,needs_id,,"Bald Rock Dome, Berry Creek, CA, US",39.65425434,-121.3178314,,Rhizopogon
