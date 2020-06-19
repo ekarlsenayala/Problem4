@@ -1,4 +1,4 @@
-id,observed_on,time_observed_at,user_id,updated_at,quality_grade,description,place_guess,latitude,longitude,species_guess,scientific_name
+ID,Observed_On,Time_Observed,User_ID,Updated_at,Quality_Grade,Description,Place,Latitude,Longitude,Species,Scientific_Name
 150439,11/15/12,,4310,2016-11-28 06:06:56 UTC,needs_id,These sequestrate fungi were found in the duff beneath Arctostaphylos sp. in an area with Pinus jeffreyi. ,"Sherier Rd., Cave Junction, OR",42.10372776,-123.6304424,Rhizopogon rubescens,Rhizopogon ochraceorubens
 286391,6/1/13,2013-06-01 22:40:06 UTC,14961,2017-04-10 02:56:35 UTC,research,,"Trinity County, US-CA, US",40.573468,-123.531241,Rhizopogon truncatus,Rhizopogon truncatus
 415810,8/17/13,2013-08-17 17:45:25 UTC,8641,2015-04-03 23:22:19 UTC,research,"<i>Pterospora andromedea</i>
