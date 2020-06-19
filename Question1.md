@@ -1,7 +1,7 @@
 Column Header | Description
 ------------ | -------------
 ID | unique id for each iNaturalist submission
-Observed_on | date of observation
+observed_on | date of observation
 time_observed | time of observation
 user_id | unique number id per user
 user_login | username of person submitting 
